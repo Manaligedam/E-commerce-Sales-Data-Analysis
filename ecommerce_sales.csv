@@ -1,0 +1,1001 @@
+order_id,order_date,product,category,region,city,quantity,unit_price,discount,sales,cost,profit,payment_method,sales_channel
+1,2025-02-02,Shoes,Fashion,South,Bengaluru,2,4959.92,0.15,8431.86,7473.82,958.04,Debit Card,Marketplace
+2,2025-09-26,Shoes,Fashion,East,Bhubaneswar,3,7459.66,0.0,22378.98,15644.81,6734.17,UPI,Marketplace
+3,2025-10-13,Smart Watch,Electronics,North,Jaipur,3,15252.81,0.05,43470.51,29742.64,13727.87,Cash on Delivery,Website
+4,2025-11-10,T-Shirt,Fashion,North,Chandigarh,1,1321.16,0.15,1122.99,895.74,227.25,Debit Card,Marketplace
+5,2025-09-05,Shoes,Fashion,East,Kolkata,2,3201.4,0.05,6082.66,3903.38,2179.28,Net Banking,Marketplace
+6,2025-12-03,Shoes,Fashion,North,Jaipur,2,8766.07,0.05,16655.53,11948.17,4707.36,Net Banking,Website
+7,2025-06-18,Smartphone,Electronics,Central,Bhopal,2,40358.13,0.0,80716.26,60324.03,20392.23,UPI,Marketplace
+8,2025-08-18,Shoes,Fashion,Central,Bhopal,4,4049.04,0.15,13766.74,12585.2,1181.54,Cash on Delivery,Website
+9,2025-03-29,Smart Watch,Electronics,West,Ahmedabad,4,4666.16,0.0,18664.64,11229.02,7435.62,Net Banking,Mobile App
+10,2025-06-22,Shoes,Fashion,North,Delhi,3,7421.25,0.05,21150.56,16143.96,5006.6,Credit Card,Website
+11,2025-06-10,Smart Watch,Electronics,East,Bhubaneswar,4,9801.99,0.1,35287.16,30123.47,5163.69,Debit Card,Mobile App
+12,2025-02-03,Backpack,Accessories,Central,Indore,3,1994.22,0.0,5982.66,4164.4,1818.26,Credit Card,Mobile App
+13,2025-12-29,T-Shirt,Fashion,Central,Indore,4,804.12,0.0,3216.48,2129.0,1087.48,Debit Card,Mobile App
+14,2025-02-16,Backpack,Accessories,East,Patna,4,3722.03,0.1,13399.31,10263.95,3135.36,Credit Card,Website
+15,2025-05-03,Laptop,Electronics,West,Mumbai,4,67251.2,0.1,242104.32,188737.26,53367.06,Cash on Delivery,Mobile App
+16,2025-12-09,Smartphone,Electronics,South,Bengaluru,2,50727.06,0.05,96381.41,69376.83,27004.58,Net Banking,Mobile App
+17,2025-08-10,Office Chair,Furniture,South,Hyderabad,2,8314.75,0.0,16629.5,13496.79,3132.71,Debit Card,Marketplace
+18,2025-06-16,Headphones,Electronics,West,Pune,2,8759.58,0.15,14891.29,13274.55,1616.74,Net Banking,Website
+19,2025-01-29,Laptop,Electronics,West,Mumbai,1,87565.06,0.05,83186.81,56437.43,26749.38,Cash on Delivery,Mobile App
+20,2025-07-19,Smartphone,Electronics,West,Pune,1,58260.87,0.15,49521.74,44178.16,5343.58,Credit Card,Mobile App
+21,2025-02-21,Backpack,Accessories,West,Mumbai,3,3239.45,0.0,9718.35,6720.02,2998.33,UPI,Mobile App
+22,2025-03-10,Office Chair,Furniture,West,Mumbai,3,9167.86,0.0,27503.58,20057.86,7445.72,Credit Card,Marketplace
+23,2025-12-28,Backpack,Accessories,North,Chandigarh,3,2148.73,0.1,5801.57,3900.05,1901.52,Debit Card,Mobile App
+24,2025-06-20,Shoes,Fashion,East,Patna,2,2395.66,0.05,4551.75,3392.04,1159.71,UPI,Mobile App
+25,2025-07-17,Desk,Furniture,Central,Bhopal,4,9203.71,0.05,34974.1,26305.97,8668.13,Credit Card,Website
+26,2025-05-13,T-Shirt,Fashion,South,Bengaluru,3,1665.01,0.0,4995.03,3605.85,1389.18,Net Banking,Marketplace
+27,2025-02-13,Headphones,Electronics,South,Bengaluru,3,6343.5,0.1,17127.45,14636.4,2491.05,Net Banking,Marketplace
+28,2025-12-22,Headphones,Electronics,South,Hyderabad,1,1491.82,0.1,1342.64,1016.83,325.81,Debit Card,Marketplace
+29,2025-12-18,Office Chair,Furniture,Central,Indore,3,21293.49,0.05,60686.45,45566.74,15119.71,Cash on Delivery,Marketplace
+30,2025-03-07,Smartphone,Electronics,North,Chandigarh,2,20110.8,0.05,38210.52,32914.25,5296.27,UPI,Marketplace
+31,2025-11-05,T-Shirt,Fashion,North,Chandigarh,1,1661.48,0.1,1495.33,1112.37,382.96,Credit Card,Mobile App
+32,2025-05-30,Office Chair,Furniture,North,Chandigarh,3,8417.0,0.1,22725.9,16608.63,6117.27,Cash on Delivery,Website
+33,2025-01-12,Smartphone,Electronics,South,Chennai,4,57062.3,0.0,228249.2,145951.45,82297.75,Net Banking,Marketplace
+34,2025-01-17,Smartphone,Electronics,East,Bhubaneswar,4,32585.21,0.15,110789.71,106071.61,4718.1,Debit Card,Website
+35,2025-12-08,Laptop,Electronics,Central,Indore,2,70741.4,0.0,141482.8,105982.63,35500.17,Credit Card,Mobile App
+36,2025-12-05,Smart Watch,Electronics,North,Chandigarh,2,11507.31,0.0,23014.62,17880.23,5134.39,UPI,Marketplace
+37,2025-10-29,Smartphone,Electronics,Central,Indore,3,23816.43,0.15,60731.9,49119.04,11612.86,UPI,Mobile App
+38,2025-07-05,Smart Watch,Electronics,East,Kolkata,3,17312.16,0.05,49339.66,41728.77,7610.89,Debit Card,Mobile App
+39,2025-02-24,Smart Watch,Electronics,North,Chandigarh,3,4141.41,0.0,12424.23,8600.12,3824.11,UPI,Mobile App
+40,2025-03-08,Coffee Maker,Home Appliances,Central,Indore,2,10141.43,0.05,19268.72,15671.51,3597.21,Net Banking,Website
+41,2025-04-16,T-Shirt,Fashion,West,Pune,2,1535.86,0.0,3071.72,2201.71,870.01,Cash on Delivery,Marketplace
+42,2025-10-02,Smart Watch,Electronics,North,Jaipur,1,8894.86,0.05,8450.12,6170.31,2279.81,Cash on Delivery,Marketplace
+43,2025-04-11,Desk,Furniture,Central,Nagpur,2,8974.07,0.0,17948.14,13714.59,4233.55,Cash on Delivery,Website
+44,2025-11-18,Laptop,Electronics,South,Bengaluru,2,79860.84,0.0,159721.68,124810.69,34910.99,Cash on Delivery,Website
+45,2025-12-01,Coffee Maker,Home Appliances,East,Kolkata,1,4072.55,0.05,3868.92,2581.16,1287.76,Debit Card,Website
+46,2025-09-16,Laptop,Electronics,East,Patna,4,69366.04,0.0,277464.16,202563.16,74901.0,Cash on Delivery,Mobile App
+47,2025-10-30,Office Chair,Furniture,East,Kolkata,3,14567.89,0.15,37148.12,34405.67,2742.45,Debit Card,Website
+48,2025-11-21,Headphones,Electronics,South,Bengaluru,3,3145.22,0.1,8492.09,6525.49,1966.6,UPI,Mobile App
+49,2025-12-04,Backpack,Accessories,East,Patna,1,1266.02,0.15,1076.12,774.08,302.04,Net Banking,Website
+50,2025-11-02,T-Shirt,Fashion,East,Patna,1,1673.45,0.15,1422.43,1299.34,123.09,Net Banking,Mobile App
+51,2025-08-13,Shoes,Fashion,Central,Nagpur,4,2768.78,0.1,9967.61,7897.99,2069.62,Cash on Delivery,Mobile App
+52,2025-10-14,Office Chair,Furniture,East,Bhubaneswar,1,16593.45,0.05,15763.78,10466.3,5297.48,UPI,Mobile App
+53,2025-08-09,Headphones,Electronics,East,Bhubaneswar,3,4066.59,0.05,11589.78,8198.84,3390.94,UPI,Marketplace
+54,2025-03-27,Headphones,Electronics,West,Mumbai,3,8601.09,0.15,21932.78,18211.96,3720.82,Debit Card,Mobile App
+55,2025-12-17,T-Shirt,Fashion,West,Pune,1,1348.36,0.15,1146.11,967.04,179.07,UPI,Website
+56,2025-03-06,Shoes,Fashion,Central,Indore,3,3257.31,0.1,8794.74,7713.55,1081.19,Cash on Delivery,Mobile App
+57,2025-08-21,Laptop,Electronics,West,Mumbai,3,83142.89,0.0,249428.67,201016.25,48412.42,Cash on Delivery,Marketplace
+58,2025-03-03,T-Shirt,Fashion,Central,Nagpur,2,1271.79,0.15,2162.04,1971.08,190.96,UPI,Website
+59,2025-09-21,Backpack,Accessories,North,Jaipur,3,1242.18,0.1,3353.89,2376.36,977.53,UPI,Mobile App
+60,2025-06-23,Desk,Furniture,East,Bhubaneswar,3,12271.58,0.15,31292.53,28562.12,2730.41,Credit Card,Mobile App
+61,2025-02-20,Coffee Maker,Home Appliances,East,Bhubaneswar,4,3637.47,0.0,14549.88,9010.68,5539.2,Net Banking,Mobile App
+62,2025-12-03,Shoes,Fashion,Central,Nagpur,3,6632.87,0.05,18903.68,15871.94,3031.74,Net Banking,Website
+63,2025-10-18,Office Chair,Furniture,North,Chandigarh,2,11716.6,0.0,23433.2,14821.79,8611.41,Debit Card,Mobile App
+64,2025-09-27,Office Chair,Furniture,South,Hyderabad,1,17945.29,0.1,16150.76,14463.02,1687.74,Net Banking,Mobile App
+65,2025-02-21,Office Chair,Furniture,East,Kolkata,1,21799.47,0.1,19619.52,17641.5,1978.02,Credit Card,Marketplace
+66,2025-11-17,Smart Watch,Electronics,East,Kolkata,2,4389.79,0.1,7901.62,6592.95,1308.67,UPI,Mobile App
+67,2025-09-21,T-Shirt,Fashion,North,Delhi,4,883.97,0.05,3359.09,2465.6,893.49,Debit Card,Marketplace
+68,2025-09-27,Shoes,Fashion,West,Mumbai,2,2596.24,0.15,4413.61,4119.84,293.77,Net Banking,Marketplace
+69,2025-01-16,Smartphone,Electronics,West,Mumbai,1,64957.92,0.1,58462.13,48265.52,10196.61,Net Banking,Marketplace
+70,2025-11-12,Laptop,Electronics,Central,Indore,2,71020.7,0.0,142041.4,109498.15,32543.25,UPI,Marketplace
+71,2025-04-16,Smart Watch,Electronics,Central,Bhopal,1,3060.52,0.0,3060.52,1871.09,1189.43,Cash on Delivery,Marketplace
+72,2025-12-18,Headphones,Electronics,Central,Nagpur,1,7825.39,0.0,7825.39,6074.16,1751.23,UPI,Marketplace
+73,2025-11-05,Smart Watch,Electronics,North,Delhi,2,15488.69,0.0,30977.38,19961.58,11015.8,Net Banking,Mobile App
+74,2025-07-17,Shoes,Fashion,Central,Nagpur,1,6336.09,0.15,5385.68,4018.01,1367.67,UPI,Website
+75,2025-01-06,Headphones,Electronics,East,Kolkata,3,6737.26,0.15,17180.01,14846.35,2333.66,UPI,Mobile App
+76,2025-01-02,Laptop,Electronics,South,Bengaluru,2,87103.64,0.1,156786.55,111159.6,45626.95,Net Banking,Website
+77,2025-05-18,Coffee Maker,Home Appliances,Central,Bhopal,3,6856.33,0.15,17483.64,15221.25,2262.39,Debit Card,Website
+78,2025-04-01,Coffee Maker,Home Appliances,South,Chennai,2,5362.76,0.1,9652.97,8086.51,1566.46,Debit Card,Marketplace
+79,2025-02-27,Smartphone,Electronics,North,Delhi,3,41892.58,0.05,119393.85,88516.98,30876.87,Cash on Delivery,Website
+80,2025-12-12,Headphones,Electronics,East,Bhubaneswar,3,3576.7,0.05,10193.59,7880.37,2313.22,Cash on Delivery,Mobile App
+81,2025-02-26,Desk,Furniture,Central,Indore,4,8611.54,0.1,31001.54,23070.28,7931.26,Credit Card,Mobile App
+82,2025-06-24,Desk,Furniture,East,Patna,1,8707.11,0.1,7836.4,6308.04,1528.36,Debit Card,Mobile App
+83,2025-08-03,Smart Watch,Electronics,North,Jaipur,1,7401.32,0.15,6291.12,5334.96,956.16,Debit Card,Mobile App
+84,2025-07-12,Office Chair,Furniture,North,Chandigarh,4,14691.09,0.1,52887.92,46718.17,6169.75,Cash on Delivery,Mobile App
+85,2025-09-25,Backpack,Accessories,South,Chennai,1,3779.53,0.05,3590.55,2964.0,626.55,UPI,Website
+86,2025-01-21,Laptop,Electronics,East,Bhubaneswar,4,86049.83,0.0,344199.32,227768.57,116430.75,Debit Card,Website
+87,2025-09-24,Office Chair,Furniture,West,Ahmedabad,4,18140.39,0.0,72561.56,56741.55,15820.01,Debit Card,Mobile App
+88,2025-09-16,Smartphone,Electronics,East,Patna,3,46239.5,0.0,138718.5,94367.73,44350.77,UPI,Marketplace
+89,2025-06-14,Shoes,Fashion,West,Pune,4,4038.92,0.1,14540.11,12200.6,2339.51,Cash on Delivery,Mobile App
+90,2025-05-02,Laptop,Electronics,West,Mumbai,4,70226.44,0.1,252815.18,178663.17,74152.01,Debit Card,Marketplace
+91,2025-12-02,Coffee Maker,Home Appliances,West,Mumbai,1,7781.71,0.15,6614.45,6364.43,250.02,Debit Card,Mobile App
+92,2025-11-04,Office Chair,Furniture,East,Bhubaneswar,4,8200.74,0.15,27882.52,22812.21,5070.31,Cash on Delivery,Website
+93,2025-04-22,Smartphone,Electronics,North,Delhi,4,60633.87,0.0,242535.48,157945.77,84589.71,UPI,Mobile App
+94,2025-12-30,Backpack,Accessories,Central,Nagpur,1,2675.84,0.0,2675.84,1748.95,926.89,Cash on Delivery,Mobile App
+95,2025-07-23,Smart Watch,Electronics,West,Pune,4,12888.15,0.15,43819.71,31590.6,12229.11,Net Banking,Mobile App
+96,2025-11-18,Office Chair,Furniture,West,Ahmedabad,2,19667.18,0.05,37367.64,30251.98,7115.66,Credit Card,Mobile App
+97,2025-06-07,Coffee Maker,Home Appliances,East,Bhubaneswar,1,8077.68,0.15,6866.03,5451.87,1414.16,Cash on Delivery,Mobile App
+98,2025-07-08,Smartphone,Electronics,South,Bengaluru,4,36731.97,0.15,124888.7,108547.83,16340.87,UPI,Mobile App
+99,2025-04-26,Smartphone,Electronics,East,Kolkata,3,19166.69,0.15,48875.06,40169.87,8705.19,UPI,Mobile App
+100,2025-07-26,Laptop,Electronics,West,Ahmedabad,1,71950.55,0.1,64755.5,53202.35,11553.15,Cash on Delivery,Mobile App
+101,2025-11-17,Desk,Furniture,South,Hyderabad,3,15137.19,0.15,38599.83,34447.09,4152.74,Net Banking,Marketplace
+102,2025-06-18,T-Shirt,Fashion,West,Pune,3,648.34,0.1,1750.52,1355.33,395.19,Cash on Delivery,Mobile App
+103,2025-06-02,Coffee Maker,Home Appliances,Central,Nagpur,1,11853.49,0.05,11260.82,9025.55,2235.27,Net Banking,Mobile App
+104,2025-01-02,Smartphone,Electronics,Central,Nagpur,3,19924.51,0.15,50807.5,42303.76,8503.74,Cash on Delivery,Mobile App
+105,2025-04-29,Coffee Maker,Home Appliances,South,Chennai,1,6409.97,0.15,5448.47,3965.59,1482.88,Debit Card,Marketplace
+106,2025-04-08,Coffee Maker,Home Appliances,Central,Indore,1,10314.54,0.0,10314.54,7034.46,3280.08,Credit Card,Website
+107,2025-12-07,Smart Watch,Electronics,West,Ahmedabad,3,13555.5,0.15,34566.53,32142.82,2423.71,Credit Card,Marketplace
+108,2025-05-20,Laptop,Electronics,East,Kolkata,1,70863.38,0.1,63777.04,55896.15,7880.89,Cash on Delivery,Mobile App
+109,2025-04-06,Smart Watch,Electronics,West,Ahmedabad,4,2958.91,0.05,11243.86,9433.47,1810.39,Credit Card,Website
+110,2025-06-01,T-Shirt,Fashion,West,Pune,4,952.44,0.15,3238.3,2536.41,701.89,Debit Card,Mobile App
+111,2025-02-11,Headphones,Electronics,West,Pune,4,8115.15,0.0,32460.6,20082.03,12378.57,Debit Card,Marketplace
+112,2025-06-05,T-Shirt,Fashion,East,Kolkata,3,1798.37,0.05,5125.35,3721.26,1404.09,UPI,Mobile App
+113,2025-03-10,Coffee Maker,Home Appliances,East,Patna,3,9158.37,0.1,24727.6,18856.75,5870.85,Credit Card,Mobile App
+114,2025-05-06,Smartphone,Electronics,East,Kolkata,1,35172.79,0.0,35172.79,22666.59,12506.2,Credit Card,Mobile App
+115,2025-12-18,Smart Watch,Electronics,Central,Nagpur,2,7821.03,0.05,14859.96,12686.12,2173.84,Debit Card,Mobile App
+116,2025-12-24,Headphones,Electronics,Central,Nagpur,2,8196.58,0.0,16393.16,11009.24,5383.92,Credit Card,Mobile App
+117,2025-12-26,Shoes,Fashion,Central,Indore,3,6053.36,0.1,16344.07,12092.15,4251.92,Credit Card,Website
+118,2025-03-06,Smartphone,Electronics,South,Hyderabad,1,59092.78,0.05,56138.14,42755.26,13382.88,Debit Card,Marketplace
+119,2025-08-20,Desk,Furniture,South,Hyderabad,4,11715.09,0.15,39831.31,35070.83,4760.48,Net Banking,Marketplace
+120,2025-04-08,Shoes,Fashion,East,Bhubaneswar,1,3133.29,0.1,2819.96,1950.21,869.75,Credit Card,Marketplace
+121,2025-10-12,Backpack,Accessories,West,Mumbai,1,2458.7,0.0,2458.7,1994.38,464.32,Credit Card,Website
+122,2025-01-19,Headphones,Electronics,West,Mumbai,4,1711.14,0.05,6502.33,4883.86,1618.47,UPI,Website
+123,2025-11-07,Smartphone,Electronics,East,Kolkata,4,36071.71,0.0,144286.84,108734.81,35552.03,Cash on Delivery,Website
+124,2025-06-29,Office Chair,Furniture,East,Patna,1,13249.14,0.0,13249.14,8276.15,4972.99,UPI,Website
+125,2025-02-10,Backpack,Accessories,East,Patna,1,2662.21,0.05,2529.1,1849.95,679.15,Debit Card,Marketplace
+126,2025-07-13,Headphones,Electronics,Central,Nagpur,3,3715.43,0.0,11146.29,7864.49,3281.8,Credit Card,Website
+127,2025-09-29,Office Chair,Furniture,Central,Nagpur,2,20955.77,0.0,41911.54,29395.47,12516.07,UPI,Website
+128,2025-08-09,Laptop,Electronics,Central,Indore,1,68455.13,0.15,58186.86,41212.53,16974.33,Cash on Delivery,Website
+129,2025-02-26,Smartphone,Electronics,South,Chennai,2,47147.02,0.0,94294.04,68384.55,25909.49,Net Banking,Marketplace
+130,2025-06-30,Laptop,Electronics,Central,Nagpur,3,86334.24,0.1,233102.45,164674.85,68427.6,Cash on Delivery,Marketplace
+131,2025-04-17,Headphones,Electronics,Central,Nagpur,3,8366.59,0.05,23844.78,18391.94,5452.84,UPI,Mobile App
+132,2025-09-25,T-Shirt,Fashion,South,Bengaluru,3,913.92,0.15,2330.5,2007.41,323.09,Debit Card,Mobile App
+133,2025-08-21,Office Chair,Furniture,South,Bengaluru,4,8171.63,0.0,32686.52,22103.45,10583.07,Net Banking,Website
+134,2025-08-29,Shoes,Fashion,North,Chandigarh,2,6898.26,0.1,12416.87,9240.55,3176.32,UPI,Mobile App
+135,2025-03-28,Smartphone,Electronics,West,Pune,3,24754.78,0.1,66837.91,47384.19,19453.72,UPI,Marketplace
+136,2025-04-07,Laptop,Electronics,South,Bengaluru,3,65414.5,0.15,166806.98,142987.05,23819.93,Debit Card,Marketplace
+137,2025-02-03,T-Shirt,Fashion,West,Mumbai,1,1197.06,0.1,1077.35,790.18,287.17,Debit Card,Mobile App
+138,2025-02-18,Headphones,Electronics,North,Jaipur,4,6376.24,0.15,21679.22,15404.88,6274.34,UPI,Website
+139,2025-11-06,T-Shirt,Fashion,East,Bhubaneswar,3,829.76,0.1,2240.35,1796.71,443.64,Net Banking,Marketplace
+140,2025-07-14,Shoes,Fashion,North,Jaipur,2,5881.95,0.15,9999.31,9603.48,395.83,Cash on Delivery,Mobile App
+141,2025-12-11,Laptop,Electronics,Central,Indore,2,84900.71,0.1,152821.28,117120.79,35700.49,Net Banking,Marketplace
+142,2025-08-28,Office Chair,Furniture,South,Bengaluru,2,17238.72,0.0,34477.44,27979.85,6497.59,Net Banking,Website
+143,2025-12-02,T-Shirt,Fashion,Central,Nagpur,1,1686.36,0.0,1686.36,1186.11,500.25,Net Banking,Marketplace
+144,2025-08-24,Office Chair,Furniture,East,Patna,1,14755.29,0.1,13279.76,11226.56,2053.2,Cash on Delivery,Mobile App
+145,2025-06-12,Smartphone,Electronics,East,Kolkata,3,60486.74,0.15,154241.19,140737.18,13504.01,UPI,Website
+146,2025-06-07,Shoes,Fashion,Central,Nagpur,1,1966.61,0.15,1671.62,1343.14,328.48,Cash on Delivery,Marketplace
+147,2025-08-18,Office Chair,Furniture,South,Chennai,2,11786.99,0.1,21216.58,17157.56,4059.02,UPI,Mobile App
+148,2025-07-30,Coffee Maker,Home Appliances,South,Chennai,1,6942.58,0.0,6942.58,4741.68,2200.9,Net Banking,Website
+149,2025-05-02,Smartphone,Electronics,West,Mumbai,1,50174.42,0.05,47665.7,40645.18,7020.52,UPI,Website
+150,2025-06-22,Shoes,Fashion,Central,Indore,2,8143.46,0.05,15472.57,10496.26,4976.31,Debit Card,Mobile App
+151,2025-01-21,Desk,Furniture,North,Chandigarh,1,9113.28,0.0,9113.28,6433.32,2679.96,Credit Card,Mobile App
+152,2025-09-03,Desk,Furniture,South,Hyderabad,1,7328.3,0.05,6961.89,4872.22,2089.67,Credit Card,Marketplace
+153,2025-10-10,Coffee Maker,Home Appliances,East,Kolkata,3,11853.4,0.15,30226.17,28791.66,1434.51,Debit Card,Website
+154,2025-12-10,Office Chair,Furniture,West,Pune,2,15293.47,0.0,30586.94,24043.64,6543.3,Debit Card,Mobile App
+155,2025-07-10,Smartphone,Electronics,South,Chennai,2,29903.01,0.0,59806.02,47092.77,12713.25,Debit Card,Marketplace
+156,2025-09-28,Headphones,Electronics,North,Chandigarh,4,4095.77,0.05,15563.93,12569.15,2994.78,UPI,Website
+157,2025-08-09,Coffee Maker,Home Appliances,South,Bengaluru,1,3646.23,0.15,3099.3,2268.27,831.03,UPI,Marketplace
+158,2025-08-14,Smartphone,Electronics,Central,Nagpur,1,37437.69,0.05,35565.81,24482.64,11083.17,UPI,Marketplace
+159,2025-07-29,T-Shirt,Fashion,South,Bengaluru,3,941.12,0.1,2541.02,1848.31,692.71,Credit Card,Website
+160,2025-01-14,Coffee Maker,Home Appliances,South,Chennai,1,10935.89,0.15,9295.51,7806.97,1488.54,Debit Card,Mobile App
+161,2025-05-24,Backpack,Accessories,North,Chandigarh,2,2464.43,0.0,4928.86,3093.58,1835.28,UPI,Mobile App
+162,2025-11-01,Coffee Maker,Home Appliances,North,Delhi,2,4053.98,0.1,7297.16,5235.29,2061.87,Cash on Delivery,Website
+163,2025-05-19,Smartphone,Electronics,North,Jaipur,1,61091.88,0.05,58037.29,44828.51,13208.78,Cash on Delivery,Mobile App
+164,2025-07-12,Backpack,Accessories,Central,Nagpur,4,1574.06,0.15,5351.8,4911.24,440.56,Credit Card,Mobile App
+165,2025-11-03,Smartphone,Electronics,Central,Bhopal,3,61271.3,0.05,174623.21,112314.61,62308.6,UPI,Marketplace
+166,2025-08-29,Smart Watch,Electronics,South,Hyderabad,3,14138.0,0.15,36051.9,27426.17,8625.73,Debit Card,Mobile App
+167,2025-04-15,Smart Watch,Electronics,Central,Indore,3,2535.79,0.15,6466.26,5034.54,1431.72,Credit Card,Mobile App
+168,2025-10-19,Smartphone,Electronics,North,Chandigarh,4,25159.36,0.1,90573.7,69081.97,21491.73,Net Banking,Website
+169,2025-06-01,Shoes,Fashion,North,Jaipur,2,5119.92,0.1,9215.86,7494.88,1720.98,Net Banking,Marketplace
+170,2025-07-11,Office Chair,Furniture,East,Kolkata,1,9658.53,0.1,8692.68,7592.78,1099.9,Cash on Delivery,Mobile App
+171,2025-04-16,T-Shirt,Fashion,West,Pune,2,1474.5,0.15,2506.65,2114.17,392.48,UPI,Website
+172,2025-05-12,Coffee Maker,Home Appliances,Central,Bhopal,3,5980.19,0.1,16146.51,12355.51,3791.0,UPI,Marketplace
+173,2025-08-04,Backpack,Accessories,East,Bhubaneswar,2,4165.51,0.05,7914.47,6184.58,1729.89,Net Banking,Mobile App
+174,2025-06-19,Desk,Furniture,North,Jaipur,4,7509.68,0.0,30038.72,22434.35,7604.37,Net Banking,Mobile App
+175,2025-04-22,Laptop,Electronics,Central,Nagpur,4,73163.67,0.0,292654.68,225693.33,66961.35,Net Banking,Website
+176,2025-11-30,Smart Watch,Electronics,South,Bengaluru,4,4505.12,0.05,17119.46,11361.98,5757.48,Credit Card,Marketplace
+177,2025-11-30,Coffee Maker,Home Appliances,West,Ahmedabad,4,4423.96,0.1,15926.26,13348.08,2578.18,Debit Card,Mobile App
+178,2025-09-30,Headphones,Electronics,East,Bhubaneswar,1,6078.73,0.05,5774.79,4952.63,822.16,Debit Card,Marketplace
+179,2025-07-18,Laptop,Electronics,South,Chennai,3,75001.54,0.15,191253.93,165209.65,26044.28,UPI,Marketplace
+180,2025-11-06,T-Shirt,Fashion,East,Bhubaneswar,4,918.88,0.1,3307.97,2601.39,706.58,Cash on Delivery,Mobile App
+181,2025-10-23,Headphones,Electronics,Central,Nagpur,4,8318.84,0.15,28284.06,26138.83,2145.23,UPI,Marketplace
+182,2025-12-30,Shoes,Fashion,West,Mumbai,1,7290.65,0.05,6926.12,5106.51,1819.61,Net Banking,Mobile App
+183,2025-08-20,Headphones,Electronics,South,Bengaluru,2,3210.91,0.1,5779.64,4432.32,1347.32,Net Banking,Marketplace
+184,2025-04-17,T-Shirt,Fashion,East,Patna,2,718.01,0.0,1436.02,967.8,468.22,UPI,Marketplace
+185,2025-03-27,Smartphone,Electronics,East,Patna,3,54393.79,0.0,163181.37,111912.03,51269.34,Credit Card,Website
+186,2025-12-12,Smartphone,Electronics,South,Hyderabad,2,37871.62,0.1,68168.92,60991.35,7177.57,Net Banking,Website
+187,2025-12-09,Smartphone,Electronics,South,Chennai,1,55164.68,0.05,52406.45,43837.54,8568.91,Debit Card,Website
+188,2025-09-17,T-Shirt,Fashion,South,Chennai,1,729.26,0.05,692.8,526.15,166.65,Credit Card,Marketplace
+189,2025-10-18,Smart Watch,Electronics,North,Delhi,1,17876.65,0.15,15195.15,12757.15,2438.0,Net Banking,Marketplace
+190,2025-02-13,Coffee Maker,Home Appliances,South,Bengaluru,2,5524.1,0.05,10495.79,7661.38,2834.41,Credit Card,Marketplace
+191,2025-10-06,Office Chair,Furniture,Central,Bhopal,3,18811.96,0.15,47970.5,44057.84,3912.66,Credit Card,Website
+192,2025-03-27,Shoes,Fashion,South,Bengaluru,1,7570.0,0.05,7191.5,6029.25,1162.25,Debit Card,Marketplace
+193,2025-12-01,Laptop,Electronics,East,Kolkata,2,68838.14,0.1,123908.65,84650.82,39257.83,Credit Card,Website
+194,2025-02-01,Desk,Furniture,West,Ahmedabad,1,15295.49,0.0,15295.49,11372.15,3923.34,Credit Card,Website
+195,2025-01-10,Smartphone,Electronics,East,Patna,2,58457.65,0.15,99378.01,84011.5,15366.51,UPI,Website
+196,2025-06-04,Office Chair,Furniture,South,Chennai,3,18066.96,0.05,51490.84,41491.44,9999.4,Debit Card,Marketplace
+197,2025-09-18,Desk,Furniture,West,Ahmedabad,2,10414.85,0.0,20829.7,13452.73,7376.97,Cash on Delivery,Website
+198,2025-10-05,Laptop,Electronics,North,Jaipur,1,69407.28,0.0,69407.28,54212.89,15194.39,Net Banking,Marketplace
+199,2025-11-08,Smartphone,Electronics,North,Chandigarh,1,48716.37,0.05,46280.55,33440.96,12839.59,Cash on Delivery,Marketplace
+200,2025-12-15,T-Shirt,Fashion,Central,Indore,3,749.99,0.0,2249.97,1674.73,575.24,Credit Card,Marketplace
+201,2025-01-03,Backpack,Accessories,East,Kolkata,2,2883.27,0.15,4901.56,4361.33,540.23,Debit Card,Website
+202,2025-12-06,Smart Watch,Electronics,South,Hyderabad,3,10035.98,0.05,28602.54,20837.84,7764.7,UPI,Marketplace
+203,2025-05-08,Backpack,Accessories,North,Delhi,4,2287.33,0.05,8691.85,6540.14,2151.71,Debit Card,Mobile App
+204,2025-08-22,Smart Watch,Electronics,East,Patna,2,3524.23,0.0,7048.46,4558.25,2490.21,Net Banking,Mobile App
+205,2025-10-12,Smartphone,Electronics,Central,Nagpur,1,59842.41,0.05,56850.29,42173.35,14676.94,Debit Card,Website
+206,2025-05-05,Headphones,Electronics,North,Delhi,2,5769.02,0.0,11538.04,8647.71,2890.33,Cash on Delivery,Website
+207,2025-06-01,Headphones,Electronics,West,Ahmedabad,3,4497.33,0.0,13491.99,8494.99,4997.0,UPI,Website
+208,2025-05-06,Office Chair,Furniture,Central,Bhopal,3,7829.06,0.05,22312.82,15460.61,6852.21,Debit Card,Website
+209,2025-10-20,T-Shirt,Fashion,North,Delhi,3,1708.57,0.0,5125.71,3196.54,1929.17,Debit Card,Mobile App
+210,2025-05-29,Smartphone,Electronics,West,Pune,4,58061.97,0.15,197410.7,181236.48,16174.22,UPI,Marketplace
+211,2025-06-11,Laptop,Electronics,North,Jaipur,1,75031.62,0.05,71280.04,60678.22,10601.82,Cash on Delivery,Marketplace
+212,2025-12-04,Smartphone,Electronics,South,Hyderabad,2,63995.8,0.05,121592.02,90695.85,30896.17,Cash on Delivery,Mobile App
+213,2025-10-21,Office Chair,Furniture,South,Bengaluru,2,15771.29,0.0,31542.58,21153.68,10388.9,Cash on Delivery,Website
+214,2025-10-19,T-Shirt,Fashion,East,Bhubaneswar,3,1266.13,0.05,3608.47,2620.54,987.93,Cash on Delivery,Mobile App
+215,2025-05-19,Coffee Maker,Home Appliances,South,Chennai,3,11361.41,0.05,32380.02,22919.52,9460.5,Cash on Delivery,Mobile App
+216,2025-05-21,Desk,Furniture,Central,Bhopal,2,13905.04,0.1,25029.07,18648.26,6380.81,UPI,Mobile App
+217,2025-07-14,Laptop,Electronics,Central,Indore,3,69151.57,0.1,186709.24,142231.21,44478.03,Net Banking,Mobile App
+218,2025-10-04,Shoes,Fashion,North,Jaipur,3,3653.44,0.15,9316.27,8812.66,503.61,UPI,Marketplace
+219,2025-12-29,Laptop,Electronics,Central,Bhopal,4,88638.0,0.05,336824.4,284796.76,52027.64,Cash on Delivery,Website
+220,2025-08-14,Laptop,Electronics,South,Hyderabad,4,82010.47,0.1,295237.69,198739.95,96497.74,UPI,Marketplace
+221,2025-03-29,Desk,Furniture,Central,Indore,2,11589.09,0.0,23178.18,17918.19,5259.99,Cash on Delivery,Marketplace
+222,2025-12-27,Office Chair,Furniture,East,Patna,1,15476.17,0.05,14702.36,9832.47,4869.89,UPI,Mobile App
+223,2025-03-20,Backpack,Accessories,Central,Indore,1,4375.5,0.15,3719.17,3448.95,270.22,Cash on Delivery,Mobile App
+224,2025-12-18,T-Shirt,Fashion,East,Bhubaneswar,1,986.8,0.0,986.8,768.14,218.66,Credit Card,Mobile App
+225,2025-08-21,Coffee Maker,Home Appliances,North,Jaipur,4,8268.51,0.05,31420.34,22536.54,8883.8,UPI,Website
+226,2025-11-18,Shoes,Fashion,West,Ahmedabad,1,7831.56,0.05,7439.98,5222.36,2217.62,UPI,Website
+227,2025-12-10,Backpack,Accessories,West,Ahmedabad,2,2569.23,0.1,4624.61,3267.78,1356.83,UPI,Mobile App
+228,2025-10-16,Smart Watch,Electronics,Central,Indore,3,3121.47,0.05,8896.19,6694.57,2201.62,Debit Card,Website
+229,2025-07-29,Smartphone,Electronics,North,Jaipur,1,34174.63,0.0,34174.63,27627.12,6547.51,Credit Card,Marketplace
+230,2025-06-01,Coffee Maker,Home Appliances,Central,Bhopal,3,3266.99,0.1,8820.87,7759.53,1061.34,Credit Card,Mobile App
+231,2025-02-18,Desk,Furniture,East,Patna,1,6430.79,0.1,5787.71,5264.11,523.6,Net Banking,Website
+232,2025-03-16,Shoes,Fashion,South,Hyderabad,3,3972.71,0.15,10130.41,7269.17,2861.24,Net Banking,Marketplace
+233,2025-11-29,Smartphone,Electronics,West,Pune,1,20811.74,0.15,17689.98,13200.19,4489.79,UPI,Marketplace
+234,2025-11-15,Backpack,Accessories,North,Chandigarh,4,2330.04,0.05,8854.15,5721.51,3132.64,Credit Card,Website
+235,2025-10-16,Smartphone,Electronics,West,Ahmedabad,1,31444.22,0.15,26727.59,19518.78,7208.81,UPI,Marketplace
+236,2025-07-17,T-Shirt,Fashion,West,Mumbai,3,1768.67,0.15,4510.11,4284.84,225.27,Cash on Delivery,Marketplace
+237,2025-04-20,Backpack,Accessories,East,Patna,4,2856.58,0.15,9712.37,9298.7,413.67,Net Banking,Mobile App
+238,2025-06-16,Desk,Furniture,North,Delhi,2,10636.1,0.05,20208.59,14595.53,5613.06,Net Banking,Website
+239,2025-07-27,Shoes,Fashion,North,Delhi,1,5011.72,0.15,4259.96,3682.05,577.91,Credit Card,Website
+240,2025-11-11,Headphones,Electronics,West,Ahmedabad,4,8810.74,0.0,35242.96,25144.66,10098.3,Cash on Delivery,Marketplace
+241,2025-01-15,Headphones,Electronics,North,Delhi,2,1583.12,0.0,3166.24,1943.86,1222.38,UPI,Mobile App
+242,2025-05-13,Coffee Maker,Home Appliances,East,Patna,3,7603.58,0.1,20529.67,14699.49,5830.18,Cash on Delivery,Mobile App
+243,2025-08-26,T-Shirt,Fashion,East,Kolkata,1,1733.5,0.05,1646.82,1074.64,572.18,Debit Card,Mobile App
+244,2025-08-15,Coffee Maker,Home Appliances,East,Kolkata,2,6093.94,0.15,10359.7,8761.93,1597.77,Net Banking,Website
+245,2025-03-09,Smart Watch,Electronics,West,Ahmedabad,1,12929.23,0.05,12282.77,8407.9,3874.87,Cash on Delivery,Website
+246,2025-09-19,Coffee Maker,Home Appliances,East,Bhubaneswar,4,4285.08,0.0,17140.32,12160.76,4979.56,UPI,Mobile App
+247,2025-12-08,Desk,Furniture,Central,Bhopal,1,17937.78,0.05,17040.89,12648.79,4392.1,Cash on Delivery,Website
+248,2025-09-25,Backpack,Accessories,East,Patna,3,1720.68,0.1,4645.84,3154.95,1490.89,UPI,Mobile App
+249,2025-06-30,T-Shirt,Fashion,West,Pune,3,1118.23,0.0,3354.69,2619.63,735.06,Net Banking,Marketplace
+250,2025-11-26,Desk,Furniture,South,Chennai,1,13655.24,0.15,11606.95,10088.96,1517.99,Debit Card,Mobile App
+251,2025-10-11,Smart Watch,Electronics,West,Ahmedabad,3,17389.1,0.05,49558.93,36178.96,13379.97,Credit Card,Mobile App
+252,2025-01-17,Shoes,Fashion,South,Bengaluru,3,5109.91,0.0,15329.73,11711.07,3618.66,Credit Card,Website
+253,2025-05-17,Smart Watch,Electronics,East,Kolkata,1,14082.68,0.15,11970.28,9294.13,2676.15,UPI,Marketplace
+254,2025-10-20,Smartphone,Electronics,North,Chandigarh,2,27290.35,0.05,51851.66,39105.22,12746.44,Net Banking,Marketplace
+255,2025-03-03,Shoes,Fashion,Central,Indore,4,3061.3,0.05,11632.94,8635.92,2997.02,Credit Card,Website
+256,2025-04-01,Office Chair,Furniture,North,Delhi,3,8909.14,0.1,24054.68,20182.04,3872.64,Debit Card,Mobile App
+257,2025-03-29,Shoes,Fashion,East,Patna,1,7185.53,0.15,6107.7,5019.9,1087.8,Credit Card,Website
+258,2025-05-04,Office Chair,Furniture,West,Mumbai,1,9645.33,0.05,9163.06,6619.14,2543.92,Cash on Delivery,Marketplace
+259,2025-03-05,Office Chair,Furniture,West,Mumbai,2,11092.06,0.0,22184.12,15452.14,6731.98,Cash on Delivery,Mobile App
+260,2025-11-25,Headphones,Electronics,West,Pune,1,7152.61,0.15,6079.72,5075.1,1004.62,UPI,Marketplace
+261,2025-08-16,Coffee Maker,Home Appliances,East,Patna,2,8328.41,0.15,14158.3,13323.69,834.61,Credit Card,Mobile App
+262,2025-10-05,Laptop,Electronics,East,Bhubaneswar,3,65395.14,0.05,186376.15,139046.26,47329.89,Debit Card,Mobile App
+263,2025-10-06,Backpack,Accessories,North,Chandigarh,4,3911.81,0.0,15647.24,10163.49,5483.75,UPI,Marketplace
+264,2025-10-09,Coffee Maker,Home Appliances,North,Jaipur,1,10792.66,0.15,9173.76,7221.98,1951.78,Net Banking,Website
+265,2025-10-28,Smart Watch,Electronics,West,Mumbai,2,17051.48,0.05,32397.81,24640.77,7757.04,Credit Card,Website
+266,2025-03-23,Smartphone,Electronics,North,Chandigarh,3,20723.43,0.15,52844.75,42812.55,10032.2,UPI,Marketplace
+267,2025-09-02,Smartphone,Electronics,Central,Nagpur,1,26246.73,0.15,22309.72,17276.56,5033.16,Net Banking,Website
+268,2025-04-20,Smart Watch,Electronics,South,Hyderabad,2,15124.35,0.0,30248.7,19987.3,10261.4,Debit Card,Website
+269,2025-01-02,Desk,Furniture,West,Ahmedabad,3,11190.19,0.05,31892.04,25871.97,6020.07,Debit Card,Mobile App
+270,2025-09-27,T-Shirt,Fashion,South,Hyderabad,3,777.0,0.0,2331.0,1691.51,639.49,Cash on Delivery,Website
+271,2025-03-18,Headphones,Electronics,North,Jaipur,3,5247.53,0.15,13381.2,9753.94,3627.26,Credit Card,Marketplace
+272,2025-02-27,Office Chair,Furniture,East,Bhubaneswar,1,9832.55,0.0,9832.55,6786.53,3046.02,Net Banking,Marketplace
+273,2025-07-12,Smart Watch,Electronics,West,Pune,1,13201.23,0.15,11221.05,9116.84,2104.21,Credit Card,Marketplace
+274,2025-01-27,Headphones,Electronics,East,Bhubaneswar,1,6892.56,0.15,5858.68,4283.82,1574.86,UPI,Website
+275,2025-03-05,Smartphone,Electronics,South,Hyderabad,1,39799.92,0.05,37809.92,30850.24,6959.68,Debit Card,Marketplace
+276,2025-08-21,Headphones,Electronics,North,Chandigarh,1,3338.25,0.05,3171.34,2102.12,1069.22,Debit Card,Mobile App
+277,2025-12-06,Headphones,Electronics,North,Delhi,3,7804.03,0.05,22241.49,14228.13,8013.36,Net Banking,Mobile App
+278,2025-06-08,Shoes,Fashion,South,Hyderabad,2,3318.73,0.15,5641.84,5225.14,416.7,UPI,Website
+279,2025-07-10,Laptop,Electronics,East,Patna,3,86685.59,0.05,247053.93,191443.81,55610.12,Net Banking,Website
+280,2025-02-14,Shoes,Fashion,North,Chandigarh,1,8557.28,0.1,7701.55,5965.01,1736.54,UPI,Mobile App
+281,2025-12-26,Shoes,Fashion,East,Kolkata,1,7707.64,0.1,6936.88,5112.69,1824.19,Cash on Delivery,Website
+282,2025-04-23,Backpack,Accessories,Central,Nagpur,3,2719.0,0.1,7341.3,5603.23,1738.07,Cash on Delivery,Marketplace
+283,2025-10-19,Headphones,Electronics,West,Mumbai,2,6944.88,0.1,12500.78,9932.29,2568.49,Credit Card,Marketplace
+284,2025-06-15,Coffee Maker,Home Appliances,South,Chennai,4,9357.45,0.15,31815.33,30562.21,1253.12,Credit Card,Mobile App
+285,2025-08-29,Desk,Furniture,West,Ahmedabad,1,17839.54,0.0,17839.54,12322.17,5517.37,UPI,Website
+286,2025-07-08,Shoes,Fashion,West,Mumbai,3,4556.04,0.15,11617.9,10857.63,760.27,Credit Card,Marketplace
+287,2025-03-17,Office Chair,Furniture,Central,Indore,2,16095.44,0.1,28971.79,25189.72,3782.07,Debit Card,Website
+288,2025-12-02,Shoes,Fashion,East,Bhubaneswar,3,5857.37,0.05,16693.5,10756.7,5936.8,Cash on Delivery,Marketplace
+289,2025-10-01,Laptop,Electronics,South,Hyderabad,2,74910.91,0.15,127348.55,91570.16,35778.39,Debit Card,Website
+290,2025-07-11,T-Shirt,Fashion,East,Bhubaneswar,3,1469.89,0.15,3748.22,2855.28,892.94,Debit Card,Marketplace
+291,2025-10-19,Headphones,Electronics,East,Patna,2,2999.82,0.0,5999.64,4864.95,1134.69,UPI,Mobile App
+292,2025-05-16,Shoes,Fashion,North,Jaipur,1,5627.61,0.05,5346.23,3933.12,1413.11,Credit Card,Website
+293,2025-01-07,T-Shirt,Fashion,North,Delhi,1,1555.28,0.05,1477.52,1131.15,346.37,Credit Card,Marketplace
+294,2025-03-03,Coffee Maker,Home Appliances,South,Bengaluru,4,11258.03,0.05,42780.51,28694.9,14085.61,UPI,Website
+295,2025-03-10,Smartphone,Electronics,North,Delhi,1,21351.31,0.15,18148.61,13158.66,4989.95,Debit Card,Marketplace
+296,2025-09-26,Backpack,Accessories,South,Chennai,1,3687.9,0.1,3319.11,2928.48,390.63,Debit Card,Mobile App
+297,2025-12-09,Shoes,Fashion,North,Delhi,3,5021.23,0.05,14310.51,10588.02,3722.49,Debit Card,Marketplace
+298,2025-10-13,Headphones,Electronics,West,Mumbai,4,2397.55,0.0,9590.2,7530.76,2059.44,Cash on Delivery,Marketplace
+299,2025-08-24,T-Shirt,Fashion,West,Mumbai,4,601.07,0.15,2043.64,1605.31,438.33,Debit Card,Marketplace
+300,2025-08-26,Coffee Maker,Home Appliances,South,Chennai,4,5302.68,0.1,19089.65,14078.9,5010.75,Credit Card,Mobile App
+301,2025-06-12,Smart Watch,Electronics,West,Ahmedabad,4,12164.97,0.0,48659.88,36620.4,12039.48,Debit Card,Marketplace
+302,2025-08-11,Laptop,Electronics,Central,Indore,1,76170.97,0.05,72362.42,47155.66,25206.76,Credit Card,Mobile App
+303,2025-10-31,Shoes,Fashion,North,Chandigarh,4,3506.85,0.15,11923.29,10100.79,1822.5,Cash on Delivery,Mobile App
+304,2025-07-17,Desk,Furniture,Central,Bhopal,3,13436.63,0.15,34263.41,28547.41,5716.0,Net Banking,Mobile App
+305,2025-12-31,Shoes,Fashion,East,Patna,2,2317.32,0.1,4171.18,3271.82,899.36,Credit Card,Mobile App
+306,2025-07-23,Desk,Furniture,East,Kolkata,3,17546.4,0.05,50007.24,33678.27,16328.97,UPI,Website
+307,2025-08-03,Laptop,Electronics,West,Mumbai,2,75798.64,0.15,128857.69,115420.5,13437.19,Credit Card,Mobile App
+308,2025-12-23,Smartphone,Electronics,North,Delhi,4,62230.59,0.0,248922.36,183670.01,65252.35,Credit Card,Mobile App
+309,2025-04-23,Desk,Furniture,Central,Bhopal,1,15115.72,0.0,15115.72,12081.61,3034.11,UPI,Marketplace
+310,2025-06-29,T-Shirt,Fashion,South,Bengaluru,4,1798.48,0.0,7193.92,4770.41,2423.51,Net Banking,Website
+311,2025-08-22,Backpack,Accessories,South,Chennai,1,4476.68,0.15,3805.18,3204.81,600.37,Net Banking,Marketplace
+312,2025-05-27,Coffee Maker,Home Appliances,South,Bengaluru,2,4436.68,0.1,7986.02,6949.83,1036.19,Cash on Delivery,Mobile App
+313,2025-03-30,Coffee Maker,Home Appliances,Central,Indore,4,11857.94,0.15,40317.0,36790.85,3526.15,UPI,Website
+314,2025-08-21,Backpack,Accessories,East,Bhubaneswar,1,2918.8,0.1,2626.92,2160.11,466.81,Net Banking,Marketplace
+315,2025-10-22,Office Chair,Furniture,East,Patna,3,11960.15,0.0,35880.45,23017.91,12862.54,Cash on Delivery,Mobile App
+316,2025-01-21,Headphones,Electronics,Central,Indore,4,7122.86,0.1,25642.3,17227.47,8414.83,UPI,Website
+317,2025-04-04,Smart Watch,Electronics,Central,Bhopal,3,6762.98,0.0,20288.94,12418.57,7870.37,Cash on Delivery,Website
+318,2025-01-09,T-Shirt,Fashion,West,Pune,3,702.02,0.1,1895.45,1469.67,425.78,Credit Card,Website
+319,2025-06-14,T-Shirt,Fashion,East,Patna,1,1660.97,0.0,1660.97,1061.85,599.12,Credit Card,Mobile App
+320,2025-09-06,Smartphone,Electronics,North,Jaipur,4,27531.15,0.1,99112.14,83635.2,15476.94,Cash on Delivery,Marketplace
+321,2025-11-15,Desk,Furniture,West,Mumbai,4,9603.26,0.05,36492.39,26087.32,10405.07,Net Banking,Website
+322,2025-02-08,Office Chair,Furniture,East,Bhubaneswar,2,17671.14,0.0,35342.28,24620.11,10722.17,Credit Card,Mobile App
+323,2025-08-19,Shoes,Fashion,Central,Bhopal,1,7635.74,0.1,6872.17,4754.13,2118.04,Net Banking,Mobile App
+324,2025-09-11,Headphones,Electronics,North,Jaipur,4,1531.9,0.0,6127.6,4289.79,1837.81,UPI,Website
+325,2025-02-20,T-Shirt,Fashion,East,Kolkata,2,1703.39,0.0,3406.78,2740.78,666.0,Credit Card,Marketplace
+326,2025-07-09,Coffee Maker,Home Appliances,North,Chandigarh,4,2614.49,0.15,8889.27,8506.97,382.3,Credit Card,Marketplace
+327,2025-03-11,Backpack,Accessories,Central,Bhopal,1,1181.36,0.15,1004.16,868.35,135.81,Debit Card,Mobile App
+328,2025-08-21,Backpack,Accessories,West,Ahmedabad,3,1452.89,0.1,3922.8,2687.14,1235.66,UPI,Marketplace
+329,2025-07-11,Desk,Furniture,North,Chandigarh,3,12117.96,0.05,34536.19,29565.92,4970.27,UPI,Mobile App
+330,2025-12-21,Smartphone,Electronics,East,Patna,3,28320.24,0.05,80712.68,68594.32,12118.36,UPI,Website
+331,2025-12-12,T-Shirt,Fashion,East,Bhubaneswar,1,991.66,0.15,842.91,647.73,195.18,Debit Card,Marketplace
+332,2025-02-15,Headphones,Electronics,East,Kolkata,3,6604.83,0.15,16842.32,12545.18,4297.14,Net Banking,Marketplace
+333,2025-11-10,Office Chair,Furniture,North,Delhi,2,8068.67,0.05,15330.47,12358.45,2972.02,Debit Card,Mobile App
+334,2025-01-10,T-Shirt,Fashion,Central,Nagpur,2,1176.09,0.15,1999.35,1642.31,357.04,Credit Card,Mobile App
+335,2025-03-11,Smartphone,Electronics,South,Bengaluru,3,59599.37,0.05,169858.2,112850.32,57007.88,UPI,Marketplace
+336,2025-02-18,Laptop,Electronics,West,Pune,2,72164.84,0.0,144329.68,100603.13,43726.55,Debit Card,Mobile App
+337,2025-04-09,Headphones,Electronics,South,Chennai,3,1449.94,0.1,3914.84,2967.53,947.31,Net Banking,Website
+338,2025-05-31,Laptop,Electronics,West,Ahmedabad,2,71207.36,0.05,135293.98,97795.59,37498.39,UPI,Mobile App
+339,2025-11-06,Backpack,Accessories,West,Pune,1,3036.66,0.0,3036.66,2166.14,870.52,Cash on Delivery,Mobile App
+340,2025-09-27,Smartphone,Electronics,Central,Bhopal,4,54792.57,0.15,186294.74,132575.91,53718.83,Credit Card,Marketplace
+341,2025-11-26,Headphones,Electronics,Central,Nagpur,3,7342.93,0.1,19825.91,17720.31,2105.6,Net Banking,Website
+342,2025-05-14,Desk,Furniture,North,Chandigarh,3,12563.85,0.0,37691.55,25403.46,12288.09,UPI,Website
+343,2025-01-29,Desk,Furniture,North,Chandigarh,3,16111.86,0.05,45918.8,34103.44,11815.36,Credit Card,Mobile App
+344,2025-01-07,Smartphone,Electronics,West,Pune,3,20430.91,0.15,52098.82,40359.92,11738.9,UPI,Website
+345,2025-07-19,Desk,Furniture,Central,Indore,3,17161.27,0.1,46335.43,41889.79,4445.64,Cash on Delivery,Mobile App
+346,2025-09-23,T-Shirt,Fashion,Central,Bhopal,1,1082.73,0.05,1028.59,853.41,175.18,Credit Card,Mobile App
+347,2025-11-29,Coffee Maker,Home Appliances,East,Bhubaneswar,3,4271.59,0.05,12174.03,7776.45,4397.58,Debit Card,Website
+348,2025-09-18,Smart Watch,Electronics,East,Bhubaneswar,3,5310.48,0.1,14338.3,10482.32,3855.98,Debit Card,Mobile App
+349,2025-04-21,Shoes,Fashion,North,Jaipur,3,5158.87,0.05,14702.78,12189.02,2513.76,Credit Card,Website
+350,2025-01-16,Coffee Maker,Home Appliances,East,Kolkata,3,5755.18,0.0,17265.54,12238.02,5027.52,Cash on Delivery,Website
+351,2025-09-05,Shoes,Fashion,South,Chennai,2,2741.41,0.15,4660.4,4419.81,240.59,UPI,Marketplace
+352,2025-06-01,Shoes,Fashion,North,Jaipur,2,8948.22,0.05,17001.62,11379.07,5622.55,Cash on Delivery,Mobile App
+353,2025-10-13,Smartphone,Electronics,West,Mumbai,2,46816.14,0.0,93632.28,75288.5,18343.78,Credit Card,Website
+354,2025-12-11,Smartphone,Electronics,South,Bengaluru,2,29291.7,0.05,55654.23,35572.91,20081.32,Credit Card,Website
+355,2025-11-30,Office Chair,Furniture,South,Bengaluru,4,12777.52,0.05,48554.58,34353.3,14201.28,Net Banking,Website
+356,2025-03-24,Headphones,Electronics,North,Jaipur,3,7101.87,0.15,18109.77,17135.59,974.18,Net Banking,Mobile App
+357,2025-12-07,Office Chair,Furniture,East,Patna,1,18609.09,0.15,15817.73,14621.9,1195.83,UPI,Mobile App
+358,2025-02-14,Shoes,Fashion,East,Kolkata,4,7606.07,0.05,28903.07,24474.3,4428.77,Cash on Delivery,Marketplace
+359,2025-06-12,Shoes,Fashion,West,Ahmedabad,2,2471.55,0.1,4448.79,3003.03,1445.76,Net Banking,Marketplace
+360,2025-10-21,Smart Watch,Electronics,Central,Bhopal,2,15781.34,0.0,31562.68,20853.57,10709.11,Cash on Delivery,Website
+361,2025-08-29,Desk,Furniture,North,Chandigarh,4,9182.56,0.05,34893.73,25473.25,9420.48,UPI,Website
+362,2025-11-11,T-Shirt,Fashion,North,Jaipur,4,1053.76,0.05,4004.29,2995.01,1009.28,Debit Card,Website
+363,2025-05-17,Backpack,Accessories,East,Bhubaneswar,4,1446.49,0.05,5496.66,4191.78,1304.88,Debit Card,Marketplace
+364,2025-12-19,Headphones,Electronics,East,Patna,1,8764.22,0.15,7449.59,7124.18,325.41,UPI,Website
+365,2025-12-05,Backpack,Accessories,South,Bengaluru,1,1511.92,0.15,1285.13,1101.46,183.67,UPI,Marketplace
+366,2025-12-10,Smartphone,Electronics,South,Chennai,2,44501.53,0.1,80102.75,54554.13,25548.62,UPI,Marketplace
+367,2025-01-05,Laptop,Electronics,South,Bengaluru,2,77806.07,0.05,147831.53,116062.28,31769.25,Credit Card,Marketplace
+368,2025-04-06,T-Shirt,Fashion,South,Hyderabad,2,741.77,0.05,1409.36,1081.92,327.44,Debit Card,Mobile App
+369,2025-06-21,Smartphone,Electronics,South,Hyderabad,3,22895.12,0.15,58382.56,48091.94,10290.62,Credit Card,Mobile App
+370,2025-10-09,Coffee Maker,Home Appliances,West,Ahmedabad,4,3333.71,0.0,13334.84,10728.13,2606.71,Credit Card,Website
+371,2025-04-30,Office Chair,Furniture,East,Patna,3,13786.75,0.05,39292.24,26545.42,12746.82,Cash on Delivery,Website
+372,2025-06-24,Shoes,Fashion,North,Jaipur,3,2283.52,0.0,6850.56,5095.59,1754.97,Debit Card,Mobile App
+373,2025-06-12,Laptop,Electronics,East,Kolkata,4,88746.28,0.1,319486.61,281424.67,38061.94,Cash on Delivery,Website
+374,2025-12-09,Office Chair,Furniture,East,Bhubaneswar,2,15057.59,0.05,28609.42,18470.81,10138.61,Debit Card,Website
+375,2025-08-31,Office Chair,Furniture,South,Chennai,3,9954.39,0.05,28370.01,22036.91,6333.1,Credit Card,Mobile App
+376,2025-09-10,Backpack,Accessories,South,Hyderabad,1,3678.7,0.05,3494.76,2682.71,812.05,Credit Card,Mobile App
+377,2025-02-14,Coffee Maker,Home Appliances,Central,Nagpur,2,10039.89,0.0,20079.78,13943.43,6136.35,Debit Card,Marketplace
+378,2025-10-20,Desk,Furniture,West,Ahmedabad,2,7113.43,0.1,12804.17,8932.25,3871.92,UPI,Mobile App
+379,2025-01-30,Shoes,Fashion,East,Patna,3,8059.41,0.1,21760.41,17764.63,3995.78,Debit Card,Marketplace
+380,2025-07-11,T-Shirt,Fashion,North,Chandigarh,1,547.36,0.1,492.62,354.46,138.16,Net Banking,Mobile App
+381,2025-06-28,Desk,Furniture,South,Bengaluru,4,8257.25,0.05,31377.55,24931.32,6446.23,Net Banking,Website
+382,2025-06-30,T-Shirt,Fashion,North,Chandigarh,1,1493.47,0.0,1493.47,992.12,501.35,UPI,Marketplace
+383,2025-08-03,Smart Watch,Electronics,North,Chandigarh,3,7268.24,0.05,20714.48,13272.43,7442.05,Net Banking,Website
+384,2025-11-25,Laptop,Electronics,South,Chennai,4,83237.38,0.15,283007.09,255182.72,27824.37,Credit Card,Mobile App
+385,2025-11-15,Desk,Furniture,South,Chennai,4,9895.72,0.1,35624.59,27504.29,8120.3,Net Banking,Marketplace
+386,2025-08-14,Coffee Maker,Home Appliances,West,Pune,2,3248.06,0.05,6171.31,4155.93,2015.38,UPI,Website
+387,2025-04-11,Smartphone,Electronics,Central,Indore,4,53911.57,0.05,204863.97,172998.78,31865.19,Cash on Delivery,Website
+388,2025-01-10,Desk,Furniture,South,Bengaluru,2,6963.33,0.05,13230.33,11377.06,1853.27,UPI,Website
+389,2025-02-18,Backpack,Accessories,South,Hyderabad,4,2692.79,0.1,9694.04,7355.43,2338.61,Credit Card,Website
+390,2025-09-26,Desk,Furniture,East,Bhubaneswar,1,14277.14,0.15,12135.57,9727.1,2408.47,Net Banking,Website
+391,2025-04-29,Smartphone,Electronics,North,Chandigarh,3,21249.49,0.1,57373.62,42289.03,15084.59,UPI,Website
+392,2025-12-28,T-Shirt,Fashion,Central,Indore,1,1586.19,0.0,1586.19,960.0,626.19,Debit Card,Marketplace
+393,2025-09-26,Headphones,Electronics,Central,Bhopal,4,5476.53,0.05,20810.81,16977.59,3833.22,UPI,Mobile App
+394,2025-11-21,Coffee Maker,Home Appliances,South,Chennai,3,3926.23,0.15,10011.89,7201.31,2810.58,UPI,Marketplace
+395,2025-02-10,Smart Watch,Electronics,North,Jaipur,4,13120.83,0.05,49859.15,36322.99,13536.16,Credit Card,Mobile App
+396,2025-04-07,Desk,Furniture,Central,Bhopal,3,9922.78,0.05,28279.92,19503.85,8776.07,UPI,Website
+397,2025-10-22,T-Shirt,Fashion,Central,Nagpur,3,1282.76,0.0,3848.28,2896.4,951.88,UPI,Website
+398,2025-06-09,Smartphone,Electronics,North,Chandigarh,1,18405.01,0.0,18405.01,14129.44,4275.57,Credit Card,Website
+399,2025-05-03,Shoes,Fashion,Central,Bhopal,4,2317.41,0.1,8342.68,7103.66,1239.02,Debit Card,Website
+400,2025-04-22,Backpack,Accessories,East,Kolkata,4,4468.48,0.05,16980.22,11469.48,5510.74,Credit Card,Mobile App
+401,2025-08-12,Backpack,Accessories,South,Hyderabad,3,3752.18,0.15,9568.06,8964.25,603.81,Credit Card,Website
+402,2025-07-12,Backpack,Accessories,East,Patna,4,1970.68,0.05,7488.58,6345.81,1142.77,Cash on Delivery,Marketplace
+403,2025-07-02,Desk,Furniture,South,Bengaluru,4,12449.25,0.05,47307.15,31053.57,16253.58,Cash on Delivery,Mobile App
+404,2025-02-20,Laptop,Electronics,West,Ahmedabad,4,88286.55,0.0,353146.2,227269.27,125876.93,Cash on Delivery,Website
+405,2025-02-25,Coffee Maker,Home Appliances,Central,Bhopal,1,9394.16,0.0,9394.16,7066.35,2327.81,Credit Card,Marketplace
+406,2025-01-22,T-Shirt,Fashion,Central,Nagpur,4,1433.86,0.1,5161.9,3848.15,1313.75,UPI,Marketplace
+407,2025-01-22,Backpack,Accessories,South,Hyderabad,2,3291.64,0.05,6254.12,5045.07,1209.05,Debit Card,Website
+408,2025-01-03,Headphones,Electronics,North,Delhi,2,5407.61,0.05,10274.46,7849.1,2425.36,Debit Card,Mobile App
+409,2025-11-07,Backpack,Accessories,North,Jaipur,2,3006.69,0.1,5412.04,4560.83,851.21,Credit Card,Marketplace
+410,2025-10-19,Smart Watch,Electronics,North,Delhi,1,10831.37,0.1,9748.23,6739.96,3008.27,Cash on Delivery,Mobile App
+411,2025-12-23,T-Shirt,Fashion,North,Delhi,2,1382.77,0.0,2765.54,2019.68,745.86,UPI,Marketplace
+412,2025-11-25,T-Shirt,Fashion,West,Pune,4,1271.49,0.1,4577.36,3430.43,1146.93,Cash on Delivery,Marketplace
+413,2025-01-14,Shoes,Fashion,West,Mumbai,2,5542.23,0.05,10530.24,6773.53,3756.71,Credit Card,Website
+414,2025-02-28,Office Chair,Furniture,Central,Indore,2,21162.15,0.1,38091.87,27581.26,10510.61,Credit Card,Mobile App
+415,2025-01-14,T-Shirt,Fashion,East,Kolkata,4,998.35,0.15,3394.39,3101.25,293.14,Cash on Delivery,Mobile App
+416,2025-11-25,Coffee Maker,Home Appliances,Central,Nagpur,1,6320.31,0.0,6320.31,5076.01,1244.3,Net Banking,Mobile App
+417,2025-12-28,Backpack,Accessories,North,Delhi,3,1662.27,0.15,4238.79,3539.1,699.69,Net Banking,Marketplace
+418,2025-10-10,Coffee Maker,Home Appliances,East,Patna,3,10376.93,0.05,29574.25,19043.69,10530.56,Net Banking,Marketplace
+419,2025-01-21,Backpack,Accessories,Central,Indore,4,3212.34,0.05,12206.89,8896.23,3310.66,Credit Card,Website
+420,2025-09-14,Headphones,Electronics,Central,Bhopal,2,7725.8,0.0,15451.6,10041.59,5410.01,Cash on Delivery,Website
+421,2025-05-09,Smartphone,Electronics,South,Hyderabad,4,44475.86,0.05,169008.27,131249.16,37759.11,Debit Card,Website
+422,2025-12-18,Coffee Maker,Home Appliances,East,Bhubaneswar,4,11073.65,0.15,37650.41,32728.52,4921.89,Net Banking,Mobile App
+423,2025-07-07,Smart Watch,Electronics,North,Chandigarh,1,2755.47,0.15,2342.15,2008.28,333.87,UPI,Mobile App
+424,2025-05-01,Laptop,Electronics,East,Bhubaneswar,2,77743.37,0.1,139938.07,108240.17,31697.9,Cash on Delivery,Website
+425,2025-02-20,Backpack,Accessories,West,Mumbai,1,2251.0,0.15,1913.35,1436.24,477.11,Cash on Delivery,Website
+426,2025-07-20,Backpack,Accessories,South,Bengaluru,1,2697.41,0.1,2427.67,2182.21,245.46,Debit Card,Marketplace
+427,2025-12-29,Laptop,Electronics,Central,Bhopal,2,71559.71,0.05,135963.45,86847.56,49115.89,Net Banking,Marketplace
+428,2025-02-12,Shoes,Fashion,East,Kolkata,3,5519.34,0.1,14902.22,11377.58,3524.64,Net Banking,Website
+429,2025-06-17,Smart Watch,Electronics,West,Ahmedabad,2,17931.11,0.0,35862.22,25916.49,9945.73,Debit Card,Marketplace
+430,2025-05-16,Backpack,Accessories,Central,Indore,2,3131.7,0.1,5637.06,4941.65,695.41,UPI,Marketplace
+431,2025-05-20,Laptop,Electronics,South,Bengaluru,2,85904.99,0.0,171809.98,110442.58,61367.4,Net Banking,Mobile App
+432,2025-11-13,Office Chair,Furniture,Central,Nagpur,1,9489.89,0.05,9015.4,6533.99,2481.41,Net Banking,Marketplace
+433,2025-10-12,Smart Watch,Electronics,East,Kolkata,4,4428.36,0.05,16827.77,14187.23,2640.54,Credit Card,Mobile App
+434,2025-12-08,Coffee Maker,Home Appliances,East,Bhubaneswar,2,11531.32,0.05,21909.51,17223.81,4685.7,Net Banking,Marketplace
+435,2025-06-29,Laptop,Electronics,West,Pune,2,68603.93,0.1,123487.07,89344.48,34142.59,UPI,Mobile App
+436,2025-04-21,T-Shirt,Fashion,North,Delhi,3,1565.04,0.05,4460.36,3615.42,844.94,UPI,Mobile App
+437,2025-04-20,Smartphone,Electronics,South,Hyderabad,3,58461.65,0.15,149077.21,140040.13,9037.08,Cash on Delivery,Marketplace
+438,2025-05-09,Headphones,Electronics,West,Pune,4,8468.23,0.1,30485.63,23472.2,7013.43,Credit Card,Mobile App
+439,2025-01-22,Headphones,Electronics,Central,Nagpur,4,3082.25,0.0,12329.0,8744.27,3584.73,Debit Card,Mobile App
+440,2025-09-13,Backpack,Accessories,South,Hyderabad,1,2442.93,0.05,2320.78,1578.23,742.55,Credit Card,Website
+441,2025-09-18,Shoes,Fashion,South,Bengaluru,4,7271.89,0.1,26178.8,22974.63,3204.17,Cash on Delivery,Marketplace
+442,2025-05-04,Shoes,Fashion,North,Chandigarh,1,7551.0,0.1,6795.9,5936.56,859.34,UPI,Mobile App
+443,2025-03-27,T-Shirt,Fashion,South,Chennai,1,1467.95,0.05,1394.55,1180.13,214.42,Debit Card,Mobile App
+444,2025-07-16,Smartphone,Electronics,Central,Bhopal,2,28611.43,0.15,48639.43,39325.93,9313.5,Debit Card,Website
+445,2025-03-08,Desk,Furniture,West,Pune,2,15669.8,0.15,26638.66,19287.18,7351.48,Credit Card,Mobile App
+446,2025-04-21,Smart Watch,Electronics,South,Chennai,2,9432.77,0.05,17922.26,13277.83,4644.43,Credit Card,Mobile App
+447,2025-02-14,Desk,Furniture,West,Ahmedabad,3,15814.02,0.1,42697.85,32028.29,10669.56,Debit Card,Marketplace
+448,2025-04-10,Smartphone,Electronics,South,Bengaluru,3,45386.08,0.05,129350.33,103836.71,25513.62,Net Banking,Marketplace
+449,2025-03-04,Headphones,Electronics,North,Chandigarh,1,5186.92,0.15,4408.88,3547.27,861.61,Credit Card,Marketplace
+450,2025-07-01,T-Shirt,Fashion,Central,Bhopal,4,715.63,0.15,2433.14,1737.76,695.38,Cash on Delivery,Marketplace
+451,2025-11-07,Smart Watch,Electronics,East,Patna,1,10757.48,0.05,10219.61,8376.91,1842.7,UPI,Mobile App
+452,2025-07-05,T-Shirt,Fashion,Central,Nagpur,2,798.93,0.0,1597.86,1184.68,413.18,UPI,Website
+453,2025-04-20,Headphones,Electronics,South,Chennai,1,2288.09,0.15,1944.88,1486.82,458.06,Debit Card,Marketplace
+454,2025-05-28,Laptop,Electronics,South,Chennai,3,78912.15,0.1,213062.8,184095.36,28967.44,Net Banking,Mobile App
+455,2025-06-06,Smartphone,Electronics,North,Jaipur,4,52818.32,0.15,179582.29,133116.1,46466.19,Debit Card,Marketplace
+456,2025-11-25,Laptop,Electronics,East,Kolkata,1,72468.98,0.1,65222.08,48807.91,16414.17,Debit Card,Mobile App
+457,2025-10-19,Smartphone,Electronics,Central,Indore,2,42892.39,0.1,77206.3,62328.21,14878.09,Credit Card,Marketplace
+458,2025-07-14,Smartphone,Electronics,North,Delhi,4,53946.16,0.05,204995.41,166630.52,38364.89,Net Banking,Website
+459,2025-10-09,Desk,Furniture,East,Patna,4,6395.23,0.0,25580.92,19423.15,6157.77,UPI,Website
+460,2025-07-27,T-Shirt,Fashion,East,Patna,4,1536.77,0.15,5225.02,4632.77,592.25,Debit Card,Mobile App
+461,2025-06-09,Smart Watch,Electronics,North,Delhi,3,16746.2,0.0,50238.6,33633.14,16605.46,Debit Card,Marketplace
+462,2025-07-04,Desk,Furniture,South,Bengaluru,1,14104.13,0.15,11988.51,11537.46,451.05,Credit Card,Marketplace
+463,2025-03-21,T-Shirt,Fashion,West,Pune,1,563.54,0.15,479.01,382.1,96.91,Debit Card,Mobile App
+464,2025-02-07,Headphones,Electronics,North,Jaipur,2,2254.73,0.0,4509.46,2808.18,1701.28,Credit Card,Mobile App
+465,2025-04-25,Headphones,Electronics,East,Patna,1,6596.7,0.1,5937.03,4740.5,1196.53,Debit Card,Mobile App
+466,2025-07-16,T-Shirt,Fashion,Central,Nagpur,2,597.68,0.1,1075.82,977.16,98.66,UPI,Mobile App
+467,2025-07-12,Smart Watch,Electronics,South,Hyderabad,3,7975.99,0.1,21535.17,18412.26,3122.91,UPI,Mobile App
+468,2025-08-11,Laptop,Electronics,West,Mumbai,3,79896.45,0.0,239689.35,156720.48,82968.87,Debit Card,Marketplace
+469,2025-10-19,Smartphone,Electronics,South,Hyderabad,1,25790.39,0.0,25790.39,20428.9,5361.49,Debit Card,Website
+470,2025-06-12,Laptop,Electronics,South,Chennai,3,78966.86,0.05,225055.55,173240.61,51814.94,UPI,Marketplace
+471,2025-10-02,Headphones,Electronics,Central,Nagpur,3,6497.33,0.0,19491.99,15794.15,3697.84,Cash on Delivery,Marketplace
+472,2025-01-21,Desk,Furniture,North,Delhi,4,8639.92,0.15,29375.73,26334.4,3041.33,Cash on Delivery,Mobile App
+473,2025-07-19,Desk,Furniture,Central,Bhopal,4,15916.93,0.1,57300.95,47209.41,10091.54,Debit Card,Website
+474,2025-07-10,Office Chair,Furniture,East,Bhubaneswar,1,7684.93,0.15,6532.19,5343.02,1189.17,Net Banking,Website
+475,2025-10-04,Headphones,Electronics,North,Chandigarh,4,5785.01,0.0,23140.04,14210.9,8929.14,Net Banking,Mobile App
+476,2025-08-16,Office Chair,Furniture,East,Patna,2,13469.77,0.15,22898.61,18065.23,4833.38,Credit Card,Marketplace
+477,2025-06-19,Smart Watch,Electronics,Central,Bhopal,1,9191.06,0.1,8271.95,6440.52,1831.43,Net Banking,Mobile App
+478,2025-03-20,Office Chair,Furniture,Central,Bhopal,2,8563.75,0.05,16271.12,10743.2,5527.92,Net Banking,Mobile App
+479,2025-04-20,Coffee Maker,Home Appliances,North,Delhi,4,2844.11,0.1,10238.8,7971.49,2267.31,Debit Card,Website
+480,2025-12-03,Smartphone,Electronics,South,Chennai,1,28189.32,0.05,26779.85,19402.35,7377.5,Debit Card,Website
+481,2025-02-15,Smartphone,Electronics,East,Bhubaneswar,2,22397.62,0.1,40315.72,30120.16,10195.56,Credit Card,Website
+482,2025-05-30,Laptop,Electronics,North,Delhi,2,88534.17,0.0,177068.34,111182.79,65885.55,Cash on Delivery,Marketplace
+483,2025-07-27,Smart Watch,Electronics,South,Hyderabad,3,11959.49,0.15,30496.7,22225.15,8271.55,Debit Card,Website
+484,2025-11-13,Smart Watch,Electronics,South,Bengaluru,1,9011.3,0.05,8560.73,7252.96,1307.77,Debit Card,Marketplace
+485,2025-06-26,Office Chair,Furniture,East,Patna,2,16731.62,0.15,28443.75,20502.0,7941.75,Credit Card,Mobile App
+486,2025-08-12,Shoes,Fashion,North,Jaipur,3,2874.13,0.1,7760.15,6451.04,1309.11,Credit Card,Website
+487,2025-10-28,Headphones,Electronics,West,Ahmedabad,4,7864.26,0.0,31457.04,23779.94,7677.1,Debit Card,Website
+488,2025-11-15,Smartphone,Electronics,South,Hyderabad,3,49684.78,0.0,149054.34,108772.97,40281.37,Debit Card,Mobile App
+489,2025-06-23,Office Chair,Furniture,Central,Bhopal,3,17459.23,0.1,47139.92,33819.24,13320.68,Net Banking,Marketplace
+490,2025-12-04,Smart Watch,Electronics,Central,Indore,3,9812.77,0.05,27966.39,18219.22,9747.17,Net Banking,Website
+491,2025-02-26,Coffee Maker,Home Appliances,West,Mumbai,1,4613.58,0.15,3921.54,2939.32,982.22,Net Banking,Mobile App
+492,2025-02-15,Office Chair,Furniture,Central,Indore,1,18975.26,0.15,16128.97,15039.12,1089.85,UPI,Marketplace
+493,2025-03-10,Smartphone,Electronics,West,Mumbai,4,60928.91,0.1,219344.08,164265.28,55078.8,Debit Card,Website
+494,2025-04-29,Headphones,Electronics,Central,Indore,1,8329.36,0.15,7079.96,6774.72,305.24,Net Banking,Mobile App
+495,2025-02-11,Headphones,Electronics,North,Jaipur,2,5434.95,0.05,10326.4,7199.81,3126.59,Cash on Delivery,Website
+496,2025-04-04,Desk,Furniture,Central,Bhopal,2,13809.75,0.0,27619.5,22226.26,5393.24,Debit Card,Marketplace
+497,2025-03-12,Smart Watch,Electronics,North,Jaipur,1,13505.01,0.1,12154.51,10703.02,1451.49,Cash on Delivery,Website
+498,2025-09-29,Laptop,Electronics,East,Kolkata,1,80156.27,0.0,80156.27,52348.82,27807.45,Cash on Delivery,Mobile App
+499,2025-12-07,Smartphone,Electronics,North,Delhi,3,46689.14,0.15,119057.31,109366.57,9690.74,Cash on Delivery,Mobile App
+500,2025-11-13,Backpack,Accessories,Central,Nagpur,4,2602.39,0.1,9368.6,6726.86,2641.74,Net Banking,Website
+501,2025-08-15,T-Shirt,Fashion,North,Delhi,2,1272.32,0.0,2544.64,1944.23,600.41,Credit Card,Marketplace
+502,2025-08-28,Backpack,Accessories,South,Bengaluru,2,1298.7,0.0,2597.4,1987.49,609.91,Credit Card,Marketplace
+503,2025-06-28,Shoes,Fashion,West,Ahmedabad,3,6826.97,0.05,19456.86,15482.91,3973.95,Credit Card,Website
+504,2025-08-01,Office Chair,Furniture,East,Bhubaneswar,2,10520.08,0.05,19988.15,16060.23,3927.92,UPI,Mobile App
+505,2025-03-05,Office Chair,Furniture,North,Jaipur,2,9119.34,0.05,17326.75,14392.68,2934.07,Net Banking,Mobile App
+506,2025-06-21,Shoes,Fashion,North,Chandigarh,2,2264.09,0.05,4301.77,2946.14,1355.63,UPI,Marketplace
+507,2025-09-19,Smart Watch,Electronics,Central,Bhopal,2,2577.27,0.0,5154.54,3813.43,1341.11,Credit Card,Marketplace
+508,2025-09-03,Shoes,Fashion,North,Jaipur,2,5021.17,0.1,9038.11,8180.38,857.73,Credit Card,Mobile App
+509,2025-09-06,Coffee Maker,Home Appliances,Central,Bhopal,1,4862.41,0.15,4133.05,3021.79,1111.26,UPI,Marketplace
+510,2025-08-10,Smart Watch,Electronics,Central,Indore,2,10180.79,0.1,18325.42,12896.33,5429.09,Debit Card,Website
+511,2025-03-26,Backpack,Accessories,South,Chennai,1,2490.84,0.0,2490.84,1978.27,512.57,UPI,Mobile App
+512,2025-11-30,Desk,Furniture,South,Bengaluru,1,8183.32,0.1,7364.99,5717.37,1647.62,Debit Card,Marketplace
+513,2025-01-26,T-Shirt,Fashion,West,Pune,1,1440.63,0.15,1224.54,1151.78,72.76,UPI,Mobile App
+514,2025-02-01,Smart Watch,Electronics,South,Chennai,1,6643.14,0.0,6643.14,4152.36,2490.78,Credit Card,Marketplace
+515,2025-10-27,Shoes,Fashion,West,Pune,4,4077.18,0.0,16308.72,11412.76,4895.96,Net Banking,Marketplace
+516,2025-05-23,T-Shirt,Fashion,North,Jaipur,1,1690.88,0.15,1437.25,1373.35,63.9,Cash on Delivery,Website
+517,2025-04-07,Laptop,Electronics,Central,Nagpur,3,74756.9,0.05,213057.16,142947.21,70109.95,Credit Card,Website
+518,2025-01-20,Coffee Maker,Home Appliances,East,Kolkata,2,9727.97,0.1,17510.35,14567.13,2943.22,Net Banking,Mobile App
+519,2025-06-10,Smartphone,Electronics,South,Hyderabad,2,62072.16,0.05,117937.1,81456.18,36480.92,Debit Card,Mobile App
+520,2025-01-02,Desk,Furniture,Central,Indore,1,13589.35,0.0,13589.35,10166.63,3422.72,Cash on Delivery,Website
+521,2025-08-26,Smartphone,Electronics,North,Delhi,4,33621.73,0.05,127762.57,94130.0,33632.57,Net Banking,Website
+522,2025-04-11,Backpack,Accessories,North,Jaipur,3,1363.96,0.1,3682.69,3304.88,377.81,Credit Card,Marketplace
+523,2025-07-17,Laptop,Electronics,East,Patna,2,66073.94,0.1,118933.09,101413.55,17519.54,Debit Card,Website
+524,2025-01-27,Shoes,Fashion,East,Patna,1,4511.08,0.05,4285.53,2878.36,1407.17,UPI,Website
+525,2025-04-10,T-Shirt,Fashion,North,Chandigarh,1,1331.34,0.1,1198.21,1007.26,190.95,Credit Card,Website
+526,2025-05-03,Laptop,Electronics,South,Bengaluru,2,79963.21,0.05,151930.1,100311.16,51618.94,Debit Card,Website
+527,2025-01-17,Laptop,Electronics,West,Ahmedabad,4,66422.83,0.15,225837.62,177657.85,48179.77,UPI,Marketplace
+528,2025-12-11,Smartphone,Electronics,South,Bengaluru,1,51601.44,0.1,46441.3,38801.31,7639.99,UPI,Website
+529,2025-07-17,Laptop,Electronics,North,Chandigarh,2,80103.36,0.15,136175.71,119808.45,16367.26,Debit Card,Marketplace
+530,2025-06-24,Smart Watch,Electronics,West,Mumbai,1,3122.81,0.15,2654.39,2124.23,530.16,UPI,Mobile App
+531,2025-08-17,Coffee Maker,Home Appliances,North,Delhi,4,4944.64,0.05,18789.63,12623.29,6166.34,Cash on Delivery,Website
+532,2025-12-09,Shoes,Fashion,South,Bengaluru,1,8021.34,0.0,8021.34,5321.6,2699.74,Net Banking,Website
+533,2025-03-31,Backpack,Accessories,South,Chennai,1,3419.72,0.1,3077.75,2343.78,733.97,Debit Card,Website
+534,2025-07-26,Smartphone,Electronics,Central,Nagpur,3,61794.35,0.15,157575.59,148863.07,8712.52,Net Banking,Mobile App
+535,2025-07-11,Coffee Maker,Home Appliances,South,Bengaluru,1,6458.69,0.0,6458.69,3964.12,2494.57,Cash on Delivery,Website
+536,2025-08-17,Office Chair,Furniture,West,Mumbai,4,17519.06,0.15,59564.8,51144.93,8419.87,Cash on Delivery,Marketplace
+537,2025-04-03,Office Chair,Furniture,Central,Indore,4,7194.9,0.05,27340.62,19360.96,7979.66,Debit Card,Marketplace
+538,2025-01-13,Shoes,Fashion,Central,Nagpur,1,6807.97,0.0,6807.97,5294.72,1513.25,Debit Card,Website
+539,2025-04-18,Smart Watch,Electronics,North,Jaipur,1,9994.43,0.05,9494.71,6243.19,3251.52,Credit Card,Website
+540,2025-07-07,Smartphone,Electronics,South,Chennai,2,24229.68,0.15,41190.46,32112.58,9077.88,Net Banking,Website
+541,2025-08-29,T-Shirt,Fashion,North,Delhi,3,1231.86,0.15,3141.24,2461.2,680.04,Cash on Delivery,Mobile App
+542,2025-04-19,Office Chair,Furniture,North,Chandigarh,3,19028.6,0.15,48522.93,40186.47,8336.46,Debit Card,Mobile App
+543,2025-05-31,Headphones,Electronics,North,Delhi,3,5014.01,0.0,15042.03,11685.86,3356.17,Cash on Delivery,Website
+544,2025-04-10,Backpack,Accessories,South,Bengaluru,1,1054.71,0.0,1054.71,794.35,260.36,UPI,Mobile App
+545,2025-11-03,Office Chair,Furniture,South,Hyderabad,2,10421.19,0.0,20842.38,16005.92,4836.46,Credit Card,Website
+546,2025-12-09,Coffee Maker,Home Appliances,East,Patna,1,8150.24,0.1,7335.22,6163.08,1172.14,Debit Card,Marketplace
+547,2025-03-07,Desk,Furniture,West,Pune,1,12400.3,0.05,11780.28,7727.33,4052.95,Debit Card,Website
+548,2025-01-13,Headphones,Electronics,North,Jaipur,1,1934.99,0.0,1934.99,1432.9,502.09,UPI,Mobile App
+549,2025-01-14,Laptop,Electronics,West,Pune,2,75834.35,0.05,144085.27,115040.86,29044.41,Debit Card,Mobile App
+550,2025-03-28,Desk,Furniture,Central,Bhopal,2,17595.56,0.15,29912.45,24962.31,4950.14,UPI,Website
+551,2025-02-19,Coffee Maker,Home Appliances,North,Chandigarh,2,5532.15,0.05,10511.08,9071.29,1439.79,Credit Card,Website
+552,2025-12-03,Laptop,Electronics,North,Chandigarh,2,65637.54,0.1,118147.57,80831.87,37315.7,Cash on Delivery,Marketplace
+553,2025-07-13,Backpack,Accessories,North,Chandigarh,2,3119.9,0.05,5927.81,3831.7,2096.11,Cash on Delivery,Website
+554,2025-02-05,Laptop,Electronics,West,Ahmedabad,2,72780.58,0.0,145561.16,101236.02,44325.14,UPI,Marketplace
+555,2025-07-20,Smart Watch,Electronics,Central,Bhopal,4,15626.55,0.05,59380.89,49175.49,10205.4,Debit Card,Website
+556,2025-01-25,Coffee Maker,Home Appliances,East,Bhubaneswar,3,5112.22,0.0,15336.66,10020.79,5315.87,UPI,Mobile App
+557,2025-05-02,Backpack,Accessories,North,Jaipur,4,4079.26,0.05,15501.19,11659.66,3841.53,Net Banking,Marketplace
+558,2025-05-17,Smartphone,Electronics,Central,Nagpur,3,22864.98,0.1,61735.45,51296.34,10439.11,UPI,Mobile App
+559,2025-11-19,Shoes,Fashion,Central,Indore,4,4627.51,0.0,18510.04,11578.8,6931.24,UPI,Website
+560,2025-03-15,Desk,Furniture,East,Patna,3,10275.81,0.1,27744.69,21755.97,5988.72,UPI,Marketplace
+561,2025-11-11,Office Chair,Furniture,North,Delhi,2,12193.22,0.1,21947.8,17831.73,4116.07,Net Banking,Website
+562,2025-08-03,Smart Watch,Electronics,North,Chandigarh,2,12534.87,0.0,25069.74,17474.34,7595.4,Debit Card,Website
+563,2025-11-13,T-Shirt,Fashion,West,Mumbai,2,712.13,0.1,1281.83,987.52,294.31,Net Banking,Marketplace
+564,2025-07-12,Desk,Furniture,East,Patna,1,17451.22,0.05,16578.66,13796.6,2782.06,Net Banking,Mobile App
+565,2025-07-08,Headphones,Electronics,East,Bhubaneswar,4,6544.93,0.1,23561.75,21147.89,2413.86,UPI,Website
+566,2025-11-17,Smartphone,Electronics,South,Hyderabad,1,50835.78,0.15,43210.41,30818.46,12391.95,Cash on Delivery,Marketplace
+567,2025-11-07,Laptop,Electronics,Central,Indore,1,67754.25,0.1,60978.83,50311.05,10667.78,Debit Card,Marketplace
+568,2025-06-10,Backpack,Accessories,East,Bhubaneswar,1,4165.91,0.15,3541.02,3244.21,296.81,Credit Card,Website
+569,2025-11-16,Backpack,Accessories,East,Bhubaneswar,4,1262.92,0.1,4546.51,3179.91,1366.6,Debit Card,Website
+570,2025-06-22,Headphones,Electronics,West,Mumbai,2,3010.23,0.1,5418.41,4654.38,764.03,UPI,Marketplace
+571,2025-04-14,T-Shirt,Fashion,South,Bengaluru,2,944.95,0.1,1700.91,1301.34,399.57,Credit Card,Mobile App
+572,2025-09-05,Laptop,Electronics,West,Pune,3,86961.8,0.15,221752.59,203687.55,18065.04,UPI,Mobile App
+573,2025-11-25,Coffee Maker,Home Appliances,Central,Indore,3,4855.07,0.0,14565.21,10539.78,4025.43,Debit Card,Website
+574,2025-06-10,Laptop,Electronics,North,Delhi,2,79905.99,0.05,151821.38,102492.04,49329.34,Cash on Delivery,Mobile App
+575,2025-02-07,T-Shirt,Fashion,South,Bengaluru,1,937.67,0.1,843.9,718.67,125.23,Cash on Delivery,Marketplace
+576,2025-01-14,Smart Watch,Electronics,North,Chandigarh,3,11168.25,0.0,33504.75,20361.51,13143.24,Net Banking,Marketplace
+577,2025-04-18,Coffee Maker,Home Appliances,South,Chennai,1,11071.88,0.0,11071.88,8571.92,2499.96,Debit Card,Marketplace
+578,2025-05-08,Laptop,Electronics,North,Jaipur,3,72204.98,0.15,184122.7,167760.6,16362.1,Credit Card,Website
+579,2025-06-26,Office Chair,Furniture,West,Pune,4,21501.46,0.05,81705.55,60063.69,21641.86,Debit Card,Mobile App
+580,2025-05-17,Backpack,Accessories,North,Chandigarh,4,2456.41,0.15,8351.79,7860.43,491.36,Credit Card,Mobile App
+581,2025-04-14,Desk,Furniture,East,Patna,1,14462.88,0.15,12293.45,10469.04,1824.41,UPI,Marketplace
+582,2025-03-21,Smart Watch,Electronics,South,Chennai,4,14065.07,0.0,56260.28,39924.68,16335.6,Cash on Delivery,Website
+583,2025-12-16,T-Shirt,Fashion,South,Hyderabad,2,1293.03,0.0,2586.06,2016.09,569.97,Net Banking,Marketplace
+584,2025-05-05,Office Chair,Furniture,South,Bengaluru,4,19813.04,0.05,75289.55,57498.39,17791.16,Net Banking,Mobile App
+585,2025-12-20,Shoes,Fashion,West,Ahmedabad,3,5883.19,0.05,16767.09,13734.65,3032.44,Debit Card,Website
+586,2025-07-09,Coffee Maker,Home Appliances,East,Patna,1,9219.04,0.15,7836.18,7501.33,334.85,Cash on Delivery,Marketplace
+587,2025-12-01,Smart Watch,Electronics,East,Bhubaneswar,1,5168.65,0.1,4651.78,3971.5,680.28,Net Banking,Marketplace
+588,2025-11-04,Smartphone,Electronics,West,Mumbai,4,35904.2,0.1,129255.12,99829.7,29425.42,Cash on Delivery,Website
+589,2025-05-19,T-Shirt,Fashion,North,Jaipur,2,1129.7,0.0,2259.4,1363.84,895.56,UPI,Website
+590,2025-08-18,Shoes,Fashion,Central,Indore,3,7526.33,0.0,22578.99,16488.96,6090.03,Credit Card,Website
+591,2025-05-05,T-Shirt,Fashion,North,Delhi,3,1207.33,0.15,3078.69,2352.68,726.01,Net Banking,Mobile App
+592,2025-06-03,Desk,Furniture,East,Patna,1,17971.78,0.0,17971.78,14151.56,3820.22,Net Banking,Mobile App
+593,2025-04-13,Office Chair,Furniture,Central,Bhopal,2,14788.39,0.05,28097.94,22945.77,5152.17,Debit Card,Marketplace
+594,2025-07-06,Smart Watch,Electronics,North,Chandigarh,3,10471.95,0.1,28274.27,22332.44,5941.83,Cash on Delivery,Website
+595,2025-04-18,Coffee Maker,Home Appliances,East,Patna,4,10215.81,0.15,34733.75,28859.24,5874.51,Credit Card,Website
+596,2025-03-07,Shoes,Fashion,South,Bengaluru,1,2811.24,0.05,2670.68,1962.42,708.26,Debit Card,Mobile App
+597,2025-02-21,T-Shirt,Fashion,North,Chandigarh,3,833.68,0.1,2250.94,1541.18,709.76,Net Banking,Marketplace
+598,2025-08-17,Desk,Furniture,Central,Bhopal,2,14669.73,0.15,24938.54,22772.02,2166.52,UPI,Mobile App
+599,2025-09-30,Shoes,Fashion,South,Hyderabad,2,3906.68,0.15,6641.36,5251.95,1389.41,Debit Card,Website
+600,2025-04-06,Laptop,Electronics,South,Hyderabad,3,89941.89,0.15,229351.82,214302.68,15049.14,Credit Card,Mobile App
+601,2025-09-06,Headphones,Electronics,East,Patna,1,2214.19,0.1,1992.77,1435.7,557.07,Net Banking,Website
+602,2025-07-02,Smartphone,Electronics,South,Chennai,3,29584.37,0.0,88753.11,57660.34,31092.77,Credit Card,Website
+603,2025-07-08,Smart Watch,Electronics,East,Bhubaneswar,4,16299.0,0.1,58676.4,49079.37,9597.03,Credit Card,Website
+604,2025-11-04,Office Chair,Furniture,West,Pune,3,21464.24,0.1,57953.45,42566.97,15386.48,UPI,Marketplace
+605,2025-05-28,Smart Watch,Electronics,Central,Bhopal,4,11190.12,0.15,38046.41,33478.01,4568.4,UPI,Website
+606,2025-03-16,Smartphone,Electronics,East,Bhubaneswar,3,63361.68,0.1,171076.54,131434.37,39642.17,Credit Card,Website
+607,2025-07-27,T-Shirt,Fashion,West,Mumbai,2,781.64,0.15,1328.79,1121.75,207.04,Net Banking,Website
+608,2025-02-11,T-Shirt,Fashion,South,Chennai,2,729.4,0.0,1458.8,1117.87,340.93,Credit Card,Mobile App
+609,2025-04-10,Headphones,Electronics,Central,Indore,4,7901.59,0.05,30026.04,20425.37,9600.67,Debit Card,Website
+610,2025-10-06,Office Chair,Furniture,West,Ahmedabad,3,8244.04,0.0,24732.12,17108.48,7623.64,Debit Card,Website
+611,2025-03-22,Headphones,Electronics,South,Bengaluru,2,8285.1,0.15,14084.67,12419.02,1665.65,Credit Card,Mobile App
+612,2025-05-04,Headphones,Electronics,Central,Bhopal,4,2202.99,0.05,8371.36,6403.48,1967.88,Cash on Delivery,Mobile App
+613,2025-09-27,Headphones,Electronics,South,Bengaluru,4,3897.63,0.15,13251.94,12366.86,885.08,Cash on Delivery,Mobile App
+614,2025-04-19,Headphones,Electronics,Central,Bhopal,1,1616.01,0.1,1454.41,1030.4,424.01,Net Banking,Mobile App
+615,2025-02-03,Smartphone,Electronics,West,Pune,3,22444.1,0.05,63965.68,54505.69,9459.99,Credit Card,Mobile App
+616,2025-09-08,Laptop,Electronics,South,Hyderabad,3,80006.83,0.0,240020.49,172661.07,67359.42,Cash on Delivery,Mobile App
+617,2025-04-14,Headphones,Electronics,West,Ahmedabad,2,1569.6,0.0,3139.2,2180.51,958.69,UPI,Website
+618,2025-06-03,Backpack,Accessories,West,Mumbai,3,3363.5,0.0,10090.5,6394.17,3696.33,Credit Card,Marketplace
+619,2025-10-25,Desk,Furniture,Central,Nagpur,3,14810.34,0.15,37766.37,34071.57,3694.8,Debit Card,Marketplace
+620,2025-11-21,T-Shirt,Fashion,Central,Nagpur,2,1582.08,0.1,2847.74,2456.64,391.1,Debit Card,Mobile App
+621,2025-03-02,Smart Watch,Electronics,West,Ahmedabad,3,10481.57,0.15,26728.0,21850.9,4877.1,Net Banking,Marketplace
+622,2025-11-09,Coffee Maker,Home Appliances,East,Patna,3,4864.75,0.1,13134.83,11186.82,1948.01,Credit Card,Marketplace
+623,2025-06-13,Backpack,Accessories,South,Bengaluru,4,2984.95,0.0,11939.8,9724.87,2214.93,Debit Card,Marketplace
+624,2025-12-17,Shoes,Fashion,North,Chandigarh,3,4976.75,0.0,14930.25,9578.82,5351.43,Cash on Delivery,Mobile App
+625,2025-01-06,Laptop,Electronics,West,Mumbai,1,82925.49,0.05,78779.22,65743.9,13035.32,Debit Card,Website
+626,2025-11-10,Laptop,Electronics,West,Pune,4,77788.28,0.05,295595.46,238121.96,57473.5,Credit Card,Mobile App
+627,2025-06-25,Headphones,Electronics,North,Chandigarh,1,3369.54,0.15,2864.11,2144.1,720.01,Debit Card,Website
+628,2025-05-28,Laptop,Electronics,Central,Bhopal,4,71217.26,0.0,284869.04,220433.53,64435.51,Credit Card,Mobile App
+629,2025-03-23,Smart Watch,Electronics,East,Patna,3,12275.02,0.15,31301.3,29882.7,1418.6,Net Banking,Marketplace
+630,2025-06-21,Shoes,Fashion,Central,Nagpur,2,5337.39,0.1,9607.3,6588.66,3018.64,UPI,Marketplace
+631,2025-08-30,Laptop,Electronics,South,Chennai,2,85902.89,0.15,146034.91,111632.79,34402.12,Net Banking,Marketplace
+632,2025-03-13,Coffee Maker,Home Appliances,North,Delhi,4,3714.88,0.05,14116.54,11198.01,2918.53,Net Banking,Website
+633,2025-01-04,Laptop,Electronics,East,Bhubaneswar,1,68838.04,0.1,61954.24,51193.46,10760.78,Debit Card,Marketplace
+634,2025-08-24,Desk,Furniture,North,Delhi,1,9281.89,0.0,9281.89,5991.08,3290.81,Debit Card,Website
+635,2025-04-10,Laptop,Electronics,West,Ahmedabad,2,68936.19,0.1,124085.14,101819.96,22265.18,Credit Card,Marketplace
+636,2025-12-08,Backpack,Accessories,West,Pune,4,1395.2,0.1,5022.72,3424.1,1598.62,Credit Card,Mobile App
+637,2025-12-28,Desk,Furniture,West,Ahmedabad,1,9357.91,0.1,8422.12,7346.03,1076.09,Debit Card,Mobile App
+638,2025-02-09,Backpack,Accessories,South,Bengaluru,3,1011.9,0.1,2732.13,2185.39,546.74,UPI,Website
+639,2025-10-21,Coffee Maker,Home Appliances,West,Pune,3,8431.44,0.05,24029.6,18631.87,5397.73,Debit Card,Mobile App
+640,2025-04-15,Headphones,Electronics,West,Ahmedabad,3,4630.86,0.1,12503.32,8457.63,4045.69,Debit Card,Website
+641,2025-05-11,Smart Watch,Electronics,North,Chandigarh,3,12462.24,0.1,33648.05,27433.94,6214.11,Cash on Delivery,Mobile App
+642,2025-05-17,Shoes,Fashion,East,Bhubaneswar,3,6879.24,0.0,20637.72,13668.93,6968.79,Debit Card,Website
+643,2025-12-09,Office Chair,Furniture,South,Hyderabad,2,12864.41,0.1,23155.94,16681.94,6474.0,UPI,Mobile App
+644,2025-09-03,Shoes,Fashion,Central,Nagpur,1,2386.39,0.05,2267.07,1446.65,820.42,UPI,Mobile App
+645,2025-03-22,Coffee Maker,Home Appliances,North,Jaipur,2,5579.18,0.1,10042.52,7326.86,2715.66,Net Banking,Mobile App
+646,2025-02-21,Office Chair,Furniture,East,Patna,1,10055.34,0.0,10055.34,6298.4,3756.94,Net Banking,Mobile App
+647,2025-03-17,Laptop,Electronics,South,Hyderabad,1,88823.22,0.0,88823.22,61473.57,27349.65,Debit Card,Marketplace
+648,2025-06-20,Shoes,Fashion,East,Patna,2,5138.11,0.15,8734.79,6254.62,2480.17,UPI,Marketplace
+649,2025-10-31,Coffee Maker,Home Appliances,East,Bhubaneswar,3,4920.34,0.0,14761.02,11010.68,3750.34,Net Banking,Mobile App
+650,2025-11-03,Coffee Maker,Home Appliances,Central,Indore,3,8390.77,0.05,23913.69,17318.92,6594.77,Debit Card,Website
+651,2025-06-06,Smartphone,Electronics,North,Jaipur,4,56083.69,0.1,201901.28,160775.32,41125.96,Debit Card,Marketplace
+652,2025-02-05,T-Shirt,Fashion,North,Jaipur,3,1645.6,0.1,4443.12,3852.55,590.57,UPI,Mobile App
+653,2025-10-24,T-Shirt,Fashion,East,Bhubaneswar,3,1002.29,0.05,2856.53,2005.82,850.71,Cash on Delivery,Mobile App
+654,2025-05-22,Smart Watch,Electronics,North,Jaipur,2,9172.79,0.0,18345.58,14505.95,3839.63,Credit Card,Marketplace
+655,2025-01-24,Headphones,Electronics,North,Delhi,1,5568.45,0.1,5011.6,4356.21,655.39,UPI,Marketplace
+656,2025-08-27,Backpack,Accessories,West,Pune,1,3009.99,0.1,2708.99,1829.85,879.14,UPI,Website
+657,2025-06-13,Office Chair,Furniture,South,Bengaluru,2,16736.52,0.05,31799.39,20770.29,11029.1,Cash on Delivery,Website
+658,2025-10-27,Smartphone,Electronics,South,Bengaluru,4,46590.14,0.0,186360.56,147966.24,38394.32,Net Banking,Website
+659,2025-11-13,T-Shirt,Fashion,West,Ahmedabad,1,883.93,0.05,839.73,716.85,122.88,Net Banking,Marketplace
+660,2025-02-10,Laptop,Electronics,West,Mumbai,1,79833.5,0.15,67858.47,64531.14,3327.33,UPI,Mobile App
+661,2025-05-04,Office Chair,Furniture,Central,Bhopal,1,8945.92,0.1,8051.33,5906.51,2144.82,Credit Card,Website
+662,2025-06-04,Desk,Furniture,West,Ahmedabad,1,7898.01,0.05,7503.11,4987.87,2515.24,Debit Card,Website
+663,2025-12-28,Backpack,Accessories,Central,Indore,3,1609.13,0.0,4827.39,3111.29,1716.1,Net Banking,Website
+664,2025-09-08,Desk,Furniture,North,Jaipur,2,13821.79,0.0,27643.58,19268.24,8375.34,Credit Card,Website
+665,2025-01-04,Office Chair,Furniture,North,Chandigarh,2,8077.52,0.0,16155.04,11351.91,4803.13,Debit Card,Marketplace
+666,2025-11-18,Coffee Maker,Home Appliances,North,Delhi,3,6519.32,0.0,19557.96,13127.03,6430.93,Credit Card,Website
+667,2025-09-02,Laptop,Electronics,West,Ahmedabad,3,76329.8,0.05,217539.93,146479.44,71060.49,Credit Card,Mobile App
+668,2025-12-11,T-Shirt,Fashion,North,Jaipur,2,813.27,0.1,1463.89,1041.82,422.07,Net Banking,Website
+669,2025-05-30,Smartphone,Electronics,North,Chandigarh,2,46774.5,0.05,88871.55,59676.85,29194.7,Debit Card,Website
+670,2025-06-05,Backpack,Accessories,Central,Indore,3,2873.75,0.05,8190.19,6031.51,2158.68,Credit Card,Marketplace
+671,2025-11-23,Headphones,Electronics,West,Ahmedabad,2,2708.41,0.05,5145.98,4325.45,820.53,Credit Card,Marketplace
+672,2025-06-08,Smart Watch,Electronics,South,Chennai,3,12775.28,0.05,36409.55,30627.75,5781.8,UPI,Mobile App
+673,2025-10-09,Smart Watch,Electronics,West,Mumbai,4,10965.16,0.0,43860.64,30105.93,13754.71,Cash on Delivery,Marketplace
+674,2025-07-14,Office Chair,Furniture,West,Mumbai,4,19323.33,0.05,73428.65,59188.92,14239.73,Net Banking,Marketplace
+675,2025-10-02,Desk,Furniture,South,Chennai,3,9117.58,0.0,27352.74,18006.77,9345.97,UPI,Marketplace
+676,2025-06-10,Coffee Maker,Home Appliances,West,Ahmedabad,1,8855.86,0.1,7970.27,6187.51,1782.76,Credit Card,Marketplace
+677,2025-03-09,Headphones,Electronics,East,Patna,1,8636.68,0.05,8204.85,6702.21,1502.64,Net Banking,Marketplace
+678,2025-10-02,Smartphone,Electronics,West,Mumbai,1,45548.44,0.0,45548.44,35236.79,10311.65,Net Banking,Marketplace
+679,2025-10-26,Coffee Maker,Home Appliances,West,Pune,4,4219.59,0.05,16034.44,12529.92,3504.52,Cash on Delivery,Website
+680,2025-02-05,Laptop,Electronics,North,Delhi,2,75164.95,0.1,135296.91,109181.08,26115.83,Cash on Delivery,Mobile App
+681,2025-03-03,Office Chair,Furniture,East,Bhubaneswar,2,11113.04,0.1,20003.47,14849.77,5153.7,Cash on Delivery,Marketplace
+682,2025-04-19,Backpack,Accessories,East,Kolkata,1,3121.28,0.0,3121.28,1995.09,1126.19,Net Banking,Marketplace
+683,2025-07-29,T-Shirt,Fashion,South,Chennai,1,742.39,0.0,742.39,498.22,244.17,UPI,Mobile App
+684,2025-05-02,Smart Watch,Electronics,East,Bhubaneswar,2,16530.49,0.05,31407.93,24628.02,6779.91,Debit Card,Website
+685,2025-04-25,Coffee Maker,Home Appliances,East,Patna,4,3407.09,0.1,12265.52,10359.36,1906.16,Debit Card,Mobile App
+686,2025-04-25,Office Chair,Furniture,South,Hyderabad,4,19416.11,0.15,66014.77,55147.15,10867.62,Credit Card,Website
+687,2025-11-13,Backpack,Accessories,West,Ahmedabad,4,4014.66,0.05,15255.71,11343.52,3912.19,Debit Card,Marketplace
+688,2025-08-06,T-Shirt,Fashion,North,Jaipur,2,1000.82,0.15,1701.39,1268.17,433.22,Cash on Delivery,Mobile App
+689,2025-07-24,Shoes,Fashion,North,Jaipur,3,8342.05,0.1,22523.53,18466.79,4056.74,UPI,Mobile App
+690,2025-02-22,Backpack,Accessories,West,Ahmedabad,1,973.33,0.1,876.0,767.29,108.71,UPI,Marketplace
+691,2025-08-20,Office Chair,Furniture,East,Bhubaneswar,4,14934.6,0.0,59738.4,40876.57,18861.83,Debit Card,Website
+692,2025-01-22,Laptop,Electronics,Central,Indore,4,82260.2,0.05,312588.76,227515.0,85073.76,Debit Card,Mobile App
+693,2025-05-01,Desk,Furniture,East,Patna,3,11687.81,0.1,31557.09,21086.85,10470.24,UPI,Website
+694,2025-09-05,Desk,Furniture,East,Patna,3,8488.47,0.1,22918.87,16849.2,6069.67,Credit Card,Mobile App
+695,2025-03-01,Smart Watch,Electronics,South,Chennai,3,6357.64,0.0,19072.92,13139.6,5933.32,Net Banking,Mobile App
+696,2025-11-19,Coffee Maker,Home Appliances,West,Ahmedabad,2,9214.97,0.15,15665.45,12254.31,3411.14,UPI,Mobile App
+697,2025-05-07,Smart Watch,Electronics,North,Chandigarh,4,17780.72,0.1,64010.59,56737.55,7273.04,Net Banking,Website
+698,2025-11-18,Smart Watch,Electronics,West,Mumbai,2,10006.89,0.15,17011.71,15560.79,1450.92,Cash on Delivery,Website
+699,2025-03-02,Laptop,Electronics,Central,Bhopal,1,77331.12,0.0,77331.12,58710.5,18620.62,Net Banking,Marketplace
+700,2025-11-26,Headphones,Electronics,West,Mumbai,4,5249.3,0.0,20997.2,16684.67,4312.53,Cash on Delivery,Website
+701,2025-09-07,Headphones,Electronics,North,Chandigarh,4,7488.61,0.0,29954.44,22021.73,7932.71,Cash on Delivery,Marketplace
+702,2025-03-26,Smartphone,Electronics,West,Ahmedabad,3,20896.33,0.05,59554.54,40405.99,19148.55,Credit Card,Mobile App
+703,2025-01-25,Desk,Furniture,North,Chandigarh,3,7361.82,0.1,19876.91,14152.7,5724.21,Credit Card,Website
+704,2025-03-11,Coffee Maker,Home Appliances,West,Pune,2,9003.01,0.0,18006.02,10859.45,7146.57,Debit Card,Website
+705,2025-10-28,Headphones,Electronics,Central,Bhopal,3,8007.45,0.1,21620.11,15345.97,6274.14,Debit Card,Website
+706,2025-09-29,Coffee Maker,Home Appliances,West,Mumbai,2,2811.19,0.1,5060.14,4329.57,730.57,Debit Card,Website
+707,2025-06-27,Office Chair,Furniture,West,Ahmedabad,2,20022.32,0.1,36040.18,29799.92,6240.26,Cash on Delivery,Marketplace
+708,2025-02-19,Desk,Furniture,East,Patna,3,12105.52,0.1,32684.9,23893.95,8790.95,Credit Card,Website
+709,2025-12-23,Smartphone,Electronics,North,Delhi,2,55609.4,0.05,105657.86,70397.41,35260.45,Debit Card,Mobile App
+710,2025-01-06,T-Shirt,Fashion,East,Patna,4,591.85,0.0,2367.4,1662.71,704.69,Cash on Delivery,Website
+711,2025-07-31,Coffee Maker,Home Appliances,Central,Nagpur,2,10932.97,0.05,20772.64,17049.5,3723.14,Net Banking,Mobile App
+712,2025-04-27,Desk,Furniture,East,Patna,3,15786.03,0.15,40254.38,36301.21,3953.17,Debit Card,Mobile App
+713,2025-02-16,T-Shirt,Fashion,East,Bhubaneswar,1,1621.22,0.0,1621.22,987.74,633.48,Cash on Delivery,Marketplace
+714,2025-11-24,Headphones,Electronics,North,Jaipur,4,6660.08,0.0,26640.32,18066.94,8573.38,Net Banking,Website
+715,2025-01-15,T-Shirt,Fashion,East,Patna,4,703.16,0.15,2390.74,1821.48,569.26,Cash on Delivery,Mobile App
+716,2025-03-13,Laptop,Electronics,East,Patna,1,66631.93,0.0,66631.93,48626.41,18005.52,Debit Card,Mobile App
+717,2025-03-17,Desk,Furniture,Central,Bhopal,4,13071.45,0.1,47057.22,39286.17,7771.05,Credit Card,Marketplace
+718,2025-03-10,Coffee Maker,Home Appliances,South,Chennai,3,5827.83,0.0,17483.49,10973.29,6510.2,UPI,Mobile App
+719,2025-10-09,Coffee Maker,Home Appliances,South,Bengaluru,1,8460.74,0.1,7614.67,6561.89,1052.78,Net Banking,Marketplace
+720,2025-04-13,Laptop,Electronics,North,Chandigarh,2,80491.93,0.15,136836.28,124493.52,12342.76,Net Banking,Mobile App
+721,2025-08-04,T-Shirt,Fashion,Central,Indore,1,1216.08,0.1,1094.47,745.41,349.06,Cash on Delivery,Mobile App
+722,2025-04-28,Laptop,Electronics,Central,Indore,2,83536.17,0.15,142011.49,134072.16,7939.33,Net Banking,Marketplace
+723,2025-04-28,Laptop,Electronics,South,Bengaluru,1,76851.41,0.15,65323.7,47299.62,18024.08,Cash on Delivery,Website
+724,2025-10-18,Backpack,Accessories,West,Pune,4,3821.75,0.0,15287.0,9591.28,5695.72,UPI,Website
+725,2025-07-16,Shoes,Fashion,West,Pune,4,8637.37,0.15,29367.06,27397.0,1970.06,Debit Card,Marketplace
+726,2025-07-23,Smartphone,Electronics,East,Patna,3,21212.35,0.1,57273.34,38909.57,18363.77,Credit Card,Marketplace
+727,2025-11-10,Coffee Maker,Home Appliances,West,Mumbai,3,5481.92,0.05,15623.47,12550.94,3072.53,Net Banking,Mobile App
+728,2025-12-06,Smart Watch,Electronics,South,Chennai,4,17671.53,0.1,63617.51,44248.72,19368.79,Net Banking,Mobile App
+729,2025-06-10,Smartphone,Electronics,East,Bhubaneswar,1,38302.4,0.05,36387.28,23982.74,12404.54,UPI,Website
+730,2025-12-10,Backpack,Accessories,West,Ahmedabad,2,1510.91,0.1,2719.64,1942.89,776.75,Credit Card,Website
+731,2025-12-16,Backpack,Accessories,North,Chandigarh,2,2052.38,0.0,4104.76,2888.74,1216.02,Debit Card,Marketplace
+732,2025-07-03,Office Chair,Furniture,East,Kolkata,4,9313.65,0.1,33529.14,27122.83,6406.31,UPI,Marketplace
+733,2025-04-07,Backpack,Accessories,West,Mumbai,1,3252.22,0.05,3089.61,2265.5,824.11,Debit Card,Marketplace
+734,2025-05-02,Smartphone,Electronics,East,Kolkata,3,54580.22,0.15,139179.56,125139.16,14040.4,Debit Card,Website
+735,2025-10-10,Desk,Furniture,South,Hyderabad,3,13146.53,0.15,33523.65,26922.78,6600.87,Net Banking,Website
+736,2025-06-29,Office Chair,Furniture,West,Mumbai,3,7784.23,0.1,21017.42,14785.61,6231.81,Cash on Delivery,Marketplace
+737,2025-12-15,Backpack,Accessories,South,Bengaluru,2,950.3,0.0,1900.6,1353.88,546.72,Net Banking,Website
+738,2025-07-07,Smart Watch,Electronics,East,Kolkata,2,6040.77,0.1,10873.39,8256.99,2616.4,Debit Card,Website
+739,2025-02-22,Headphones,Electronics,Central,Nagpur,4,1432.69,0.05,5444.22,4575.61,868.61,UPI,Mobile App
+740,2025-09-30,Backpack,Accessories,South,Bengaluru,4,2942.5,0.15,10004.5,7673.85,2330.65,Credit Card,Website
+741,2025-06-16,Laptop,Electronics,East,Kolkata,1,72867.2,0.15,61937.12,58340.2,3596.92,Cash on Delivery,Mobile App
+742,2025-09-07,Office Chair,Furniture,North,Chandigarh,2,14340.39,0.1,25812.7,17336.3,8476.4,Debit Card,Marketplace
+743,2025-08-09,Smart Watch,Electronics,West,Mumbai,2,12737.01,0.1,22926.62,17157.78,5768.84,Net Banking,Mobile App
+744,2025-04-23,Laptop,Electronics,South,Bengaluru,3,85612.56,0.05,243995.8,177538.0,66457.8,Credit Card,Marketplace
+745,2025-09-01,Smartphone,Electronics,Central,Nagpur,3,25111.47,0.0,75334.41,56114.8,19219.61,Cash on Delivery,Website
+746,2025-02-04,Coffee Maker,Home Appliances,Central,Bhopal,1,5146.86,0.1,4632.17,3133.97,1498.2,UPI,Mobile App
+747,2025-05-15,Backpack,Accessories,East,Bhubaneswar,3,1756.21,0.15,4478.34,4285.66,192.68,Cash on Delivery,Mobile App
+748,2025-11-14,Shoes,Fashion,South,Hyderabad,2,3538.72,0.15,6015.82,4682.75,1333.07,UPI,Website
+749,2025-10-07,Headphones,Electronics,South,Hyderabad,4,5362.24,0.1,19304.06,16882.37,2421.69,Net Banking,Website
+750,2025-01-03,Headphones,Electronics,South,Hyderabad,4,3989.27,0.05,15159.23,11308.15,3851.08,UPI,Marketplace
+751,2025-06-12,Laptop,Electronics,North,Delhi,4,76375.54,0.1,274951.94,214244.7,60707.24,Debit Card,Mobile App
+752,2025-10-17,Desk,Furniture,West,Pune,2,8252.59,0.15,14029.4,11070.16,2959.24,Net Banking,Mobile App
+753,2025-11-10,T-Shirt,Fashion,West,Pune,3,658.62,0.0,1975.86,1316.06,659.8,Cash on Delivery,Website
+754,2025-08-14,Shoes,Fashion,Central,Nagpur,3,3565.91,0.0,10697.73,7392.52,3305.21,Cash on Delivery,Marketplace
+755,2025-05-30,Shoes,Fashion,Central,Indore,1,5816.78,0.1,5235.1,4362.04,873.06,Cash on Delivery,Mobile App
+756,2025-09-04,Shoes,Fashion,East,Bhubaneswar,3,4083.27,0.1,11024.83,8647.46,2377.37,UPI,Website
+757,2025-01-08,Smart Watch,Electronics,Central,Indore,3,15918.15,0.0,47754.45,32498.97,15255.48,UPI,Website
+758,2025-05-31,Coffee Maker,Home Appliances,West,Ahmedabad,1,7187.98,0.05,6828.58,4747.47,2081.11,Credit Card,Website
+759,2025-02-16,Shoes,Fashion,South,Bengaluru,1,3843.06,0.0,3843.06,2883.53,959.53,Debit Card,Marketplace
+760,2025-05-06,Headphones,Electronics,South,Bengaluru,4,7019.61,0.15,23866.67,21320.06,2546.61,Credit Card,Marketplace
+761,2025-08-25,Coffee Maker,Home Appliances,North,Delhi,1,4804.94,0.05,4564.69,3742.93,821.76,Debit Card,Mobile App
+762,2025-12-25,Shoes,Fashion,East,Kolkata,3,2067.56,0.1,5582.41,4507.44,1074.97,UPI,Marketplace
+763,2025-10-29,Smartphone,Electronics,South,Hyderabad,2,35117.15,0.15,59699.15,45086.31,14612.84,Cash on Delivery,Website
+764,2025-11-01,Desk,Furniture,Central,Nagpur,3,6903.97,0.1,18640.72,16029.62,2611.1,Net Banking,Marketplace
+765,2025-09-04,Smart Watch,Electronics,North,Jaipur,1,14420.46,0.1,12978.41,11547.93,1430.48,UPI,Marketplace
+766,2025-11-07,Headphones,Electronics,East,Kolkata,4,5074.55,0.1,18268.38,13084.2,5184.18,UPI,Marketplace
+767,2025-11-14,Desk,Furniture,East,Bhubaneswar,4,8181.79,0.05,31090.8,22497.39,8593.41,Credit Card,Marketplace
+768,2025-08-23,Coffee Maker,Home Appliances,Central,Nagpur,2,8691.14,0.1,15644.05,11660.08,3983.97,Cash on Delivery,Website
+769,2025-09-20,Smartphone,Electronics,North,Chandigarh,1,63743.03,0.15,54181.58,42503.98,11677.6,Net Banking,Mobile App
+770,2025-10-23,Office Chair,Furniture,East,Bhubaneswar,3,11301.61,0.0,33904.83,24440.3,9464.53,Net Banking,Mobile App
+771,2025-04-14,Headphones,Electronics,East,Kolkata,4,8521.16,0.1,30676.18,27196.55,3479.63,Net Banking,Mobile App
+772,2025-04-12,T-Shirt,Fashion,South,Bengaluru,2,930.2,0.0,1860.4,1224.71,635.69,UPI,Mobile App
+773,2025-08-16,Office Chair,Furniture,Central,Bhopal,3,11069.11,0.1,29886.6,20311.83,9574.77,UPI,Marketplace
+774,2025-03-04,Smartphone,Electronics,North,Jaipur,3,28383.61,0.0,85150.83,51107.85,34042.98,Debit Card,Website
+775,2025-05-08,Headphones,Electronics,West,Mumbai,3,8959.47,0.15,22846.65,17398.84,5447.81,Cash on Delivery,Mobile App
+776,2025-03-15,T-Shirt,Fashion,West,Pune,2,1543.44,0.0,3086.88,1936.64,1150.24,Net Banking,Marketplace
+777,2025-05-29,T-Shirt,Fashion,South,Hyderabad,4,639.58,0.1,2302.49,1622.61,679.88,Cash on Delivery,Marketplace
+778,2025-05-29,Desk,Furniture,West,Ahmedabad,2,6996.99,0.1,12594.58,9654.08,2940.5,Cash on Delivery,Mobile App
+779,2025-05-23,T-Shirt,Fashion,Central,Indore,3,855.81,0.0,2567.43,1713.57,853.86,Cash on Delivery,Website
+780,2025-01-14,Smart Watch,Electronics,West,Mumbai,1,4705.39,0.0,4705.39,2960.28,1745.11,Net Banking,Marketplace
+781,2025-09-19,Coffee Maker,Home Appliances,West,Ahmedabad,2,2942.33,0.15,5001.96,4485.13,516.83,Credit Card,Mobile App
+782,2025-01-09,Headphones,Electronics,North,Jaipur,2,4734.04,0.15,8047.87,7198.49,849.38,Net Banking,Website
+783,2025-06-05,Shoes,Fashion,East,Bhubaneswar,2,7952.59,0.05,15109.92,11882.58,3227.34,UPI,Mobile App
+784,2025-03-28,Backpack,Accessories,West,Pune,2,3692.61,0.15,6277.44,5153.12,1124.32,Cash on Delivery,Mobile App
+785,2025-04-05,Smartphone,Electronics,East,Kolkata,4,31956.12,0.0,127824.48,88727.67,39096.81,UPI,Mobile App
+786,2025-06-21,Shoes,Fashion,East,Bhubaneswar,2,3570.68,0.1,6427.22,5700.66,726.56,UPI,Website
+787,2025-11-07,Office Chair,Furniture,East,Bhubaneswar,1,15855.54,0.1,14269.99,10031.74,4238.25,UPI,Mobile App
+788,2025-09-30,Headphones,Electronics,West,Ahmedabad,4,5977.08,0.0,23908.32,16115.49,7792.83,Credit Card,Website
+789,2025-01-22,Smart Watch,Electronics,North,Jaipur,1,8855.46,0.05,8412.69,7098.08,1314.61,Net Banking,Website
+790,2025-11-19,Coffee Maker,Home Appliances,South,Bengaluru,4,9586.47,0.1,34511.29,23425.41,11085.88,Credit Card,Mobile App
+791,2025-08-03,Headphones,Electronics,East,Kolkata,2,2959.98,0.15,5031.97,3924.36,1107.61,Credit Card,Website
+792,2025-07-11,Desk,Furniture,Central,Indore,2,13405.54,0.15,22789.42,16740.22,6049.2,Credit Card,Mobile App
+793,2025-01-11,Office Chair,Furniture,East,Bhubaneswar,4,14238.06,0.15,48409.4,40998.56,7410.84,Net Banking,Marketplace
+794,2025-05-28,Laptop,Electronics,East,Patna,2,88302.84,0.1,158945.11,125535.98,33409.13,Cash on Delivery,Mobile App
+795,2025-02-28,Desk,Furniture,West,Mumbai,3,9269.86,0.1,25028.62,20170.9,4857.72,Debit Card,Marketplace
+796,2025-01-17,Smart Watch,Electronics,Central,Indore,3,8658.68,0.0,25976.04,18137.71,7838.33,Net Banking,Website
+797,2025-06-28,Desk,Furniture,East,Kolkata,4,6983.04,0.05,26535.55,20787.34,5748.21,Net Banking,Marketplace
+798,2025-12-03,Coffee Maker,Home Appliances,North,Delhi,2,8060.44,0.15,13702.75,12751.03,951.72,Net Banking,Marketplace
+799,2025-05-08,Smartphone,Electronics,West,Mumbai,2,50173.92,0.05,95330.45,60580.16,34750.29,Cash on Delivery,Marketplace
+800,2025-07-03,Office Chair,Furniture,West,Ahmedabad,4,9721.82,0.0,38887.28,27432.13,11455.15,Debit Card,Marketplace
+801,2025-07-26,Desk,Furniture,East,Patna,2,8504.72,0.0,17009.44,11936.86,5072.58,Cash on Delivery,Marketplace
+802,2025-01-30,Desk,Furniture,North,Jaipur,2,13136.43,0.05,24959.22,19110.45,5848.77,Credit Card,Marketplace
+803,2025-11-12,Backpack,Accessories,South,Bengaluru,3,4286.2,0.05,12215.67,7760.19,4455.48,Net Banking,Mobile App
+804,2025-12-31,Backpack,Accessories,East,Bhubaneswar,2,2888.59,0.1,5199.46,3815.38,1384.08,Credit Card,Marketplace
+805,2025-12-24,Desk,Furniture,Central,Nagpur,4,10826.03,0.0,43304.12,29926.49,13377.63,Net Banking,Marketplace
+806,2025-03-09,Backpack,Accessories,North,Delhi,1,1977.73,0.1,1779.96,1508.68,271.28,Net Banking,Marketplace
+807,2025-11-20,Laptop,Electronics,North,Chandigarh,4,65268.84,0.0,261075.36,165605.8,95469.56,Debit Card,Mobile App
+808,2025-08-25,Headphones,Electronics,East,Kolkata,2,4546.79,0.05,8638.9,6059.25,2579.65,UPI,Mobile App
+809,2025-06-06,Smartphone,Electronics,North,Chandigarh,1,54444.95,0.0,54444.95,41427.25,13017.7,Credit Card,Website
+810,2025-11-12,Laptop,Electronics,West,Mumbai,3,88739.32,0.05,252907.06,196642.38,56264.68,Debit Card,Website
+811,2025-10-22,Backpack,Accessories,Central,Bhopal,2,4090.39,0.05,7771.74,6303.64,1468.1,Cash on Delivery,Website
+812,2025-08-07,Headphones,Electronics,South,Chennai,1,3055.34,0.05,2902.57,2260.26,642.31,Debit Card,Website
+813,2025-07-10,Smart Watch,Electronics,West,Mumbai,3,11559.3,0.1,31210.11,25036.48,6173.63,Debit Card,Marketplace
+814,2025-04-28,Office Chair,Furniture,West,Pune,3,12452.02,0.0,37356.06,27318.64,10037.42,Credit Card,Mobile App
+815,2025-09-13,T-Shirt,Fashion,Central,Bhopal,4,1599.1,0.0,6396.4,4815.9,1580.5,Net Banking,Marketplace
+816,2025-04-28,Headphones,Electronics,West,Ahmedabad,2,3388.09,0.05,6437.37,4466.3,1971.07,Credit Card,Mobile App
+817,2025-01-21,Headphones,Electronics,West,Pune,3,5149.72,0.15,13131.79,11962.7,1169.09,Net Banking,Website
+818,2025-11-22,Smartphone,Electronics,South,Hyderabad,1,59284.0,0.1,53355.6,43032.83,10322.77,Debit Card,Website
+819,2025-04-01,Smart Watch,Electronics,North,Jaipur,4,5859.04,0.0,23436.16,16462.35,6973.81,Cash on Delivery,Marketplace
+820,2025-11-15,Office Chair,Furniture,East,Patna,2,19223.53,0.1,34602.35,28717.77,5884.58,UPI,Mobile App
+821,2025-12-28,Office Chair,Furniture,West,Pune,3,9414.21,0.05,26830.5,22411.96,4418.54,UPI,Mobile App
+822,2025-11-06,Headphones,Electronics,East,Patna,2,4982.69,0.1,8968.84,6607.77,2361.07,Cash on Delivery,Mobile App
+823,2025-08-30,Shoes,Fashion,West,Pune,2,3606.55,0.1,6491.79,4571.82,1919.97,Cash on Delivery,Marketplace
+824,2025-12-25,Smart Watch,Electronics,South,Chennai,2,5411.84,0.15,9200.13,6621.25,2578.88,Net Banking,Marketplace
+825,2025-12-07,Backpack,Accessories,Central,Bhopal,1,3782.42,0.1,3404.18,2921.09,483.09,Net Banking,Marketplace
+826,2025-07-31,Headphones,Electronics,West,Mumbai,3,6986.2,0.0,20958.6,17096.79,3861.81,Cash on Delivery,Website
+827,2025-06-07,T-Shirt,Fashion,South,Bengaluru,1,815.88,0.05,775.09,617.8,157.29,Net Banking,Website
+828,2025-01-24,Desk,Furniture,North,Jaipur,1,8924.36,0.0,8924.36,5372.76,3551.6,UPI,Website
+829,2025-08-01,Laptop,Electronics,North,Delhi,3,80530.83,0.1,217433.24,148718.56,68714.68,Net Banking,Marketplace
+830,2025-12-02,Backpack,Accessories,West,Ahmedabad,1,2383.11,0.05,2263.95,1539.06,724.89,Credit Card,Marketplace
+831,2025-02-09,Coffee Maker,Home Appliances,South,Bengaluru,3,4627.38,0.05,13188.03,8819.84,4368.19,UPI,Website
+832,2025-08-08,Smart Watch,Electronics,East,Kolkata,1,5439.52,0.15,4623.59,3387.09,1236.5,Credit Card,Marketplace
+833,2025-04-08,Shoes,Fashion,Central,Indore,3,4358.59,0.1,11768.19,8488.52,3279.67,Cash on Delivery,Mobile App
+834,2025-12-30,Office Chair,Furniture,South,Hyderabad,2,16228.45,0.0,32456.9,24207.79,8249.11,Net Banking,Website
+835,2025-12-09,Laptop,Electronics,Central,Nagpur,3,75989.68,0.15,193773.68,169420.11,24353.57,Cash on Delivery,Mobile App
+836,2025-03-16,Headphones,Electronics,West,Mumbai,1,5347.87,0.0,5347.87,4063.15,1284.72,UPI,Website
+837,2025-11-09,Backpack,Accessories,East,Patna,2,2652.16,0.1,4773.89,3693.07,1080.82,Credit Card,Marketplace
+838,2025-07-15,T-Shirt,Fashion,West,Pune,2,1318.37,0.1,2373.07,1935.43,437.64,Debit Card,Website
+839,2025-09-24,Backpack,Accessories,North,Delhi,1,991.91,0.0,991.91,780.99,210.92,Net Banking,Mobile App
+840,2025-04-23,Smart Watch,Electronics,East,Patna,2,5571.65,0.15,9471.8,7152.0,2319.8,Cash on Delivery,Marketplace
+841,2025-02-17,Headphones,Electronics,East,Kolkata,1,2375.8,0.05,2257.01,1633.48,623.53,UPI,Marketplace
+842,2025-08-07,Headphones,Electronics,Central,Indore,4,7678.95,0.0,30715.8,25053.46,5662.34,Cash on Delivery,Mobile App
+843,2025-06-28,Backpack,Accessories,North,Jaipur,3,1333.03,0.15,3399.23,2641.12,758.11,Net Banking,Mobile App
+844,2025-12-24,Smart Watch,Electronics,Central,Indore,3,3360.03,0.0,10080.09,6405.52,3674.57,Debit Card,Website
+845,2025-03-18,Coffee Maker,Home Appliances,South,Bengaluru,4,7373.07,0.1,26543.05,20014.86,6528.19,Credit Card,Mobile App
+846,2025-05-18,Headphones,Electronics,East,Patna,1,3880.44,0.05,3686.42,2760.01,926.41,Net Banking,Website
+847,2025-05-26,Desk,Furniture,Central,Indore,1,7794.14,0.05,7404.43,5906.46,1497.97,Debit Card,Mobile App
+848,2025-06-08,Desk,Furniture,East,Patna,4,6618.95,0.15,22504.43,18294.58,4209.85,Cash on Delivery,Mobile App
+849,2025-10-01,Coffee Maker,Home Appliances,Central,Bhopal,4,5259.47,0.05,19985.99,16135.0,3850.99,Debit Card,Mobile App
+850,2025-02-12,Coffee Maker,Home Appliances,West,Ahmedabad,1,7778.34,0.1,7000.51,5768.12,1232.39,Cash on Delivery,Marketplace
+851,2025-03-26,Backpack,Accessories,West,Ahmedabad,3,1960.4,0.0,5881.2,4323.67,1557.53,Credit Card,Mobile App
+852,2025-11-10,Smartphone,Electronics,South,Bengaluru,3,31539.86,0.1,85157.62,74188.36,10969.26,Debit Card,Mobile App
+853,2025-10-01,Shoes,Fashion,North,Jaipur,1,8539.54,0.0,8539.54,6864.13,1675.41,Cash on Delivery,Marketplace
+854,2025-12-13,Laptop,Electronics,North,Jaipur,3,77653.7,0.1,209664.99,155502.34,54162.65,Credit Card,Mobile App
+855,2025-10-18,Backpack,Accessories,West,Ahmedabad,3,1050.7,0.05,2994.5,2039.53,954.97,Debit Card,Marketplace
+856,2025-03-07,Headphones,Electronics,South,Hyderabad,3,2566.45,0.0,7699.35,5428.85,2270.5,Cash on Delivery,Mobile App
+857,2025-07-11,Laptop,Electronics,West,Pune,4,65997.14,0.0,263988.56,207339.17,56649.39,UPI,Mobile App
+858,2025-07-24,Office Chair,Furniture,North,Chandigarh,2,20941.38,0.05,39788.62,32823.01,6965.61,Net Banking,Mobile App
+859,2025-08-01,T-Shirt,Fashion,Central,Bhopal,1,859.84,0.1,773.86,532.54,241.32,Net Banking,Website
+860,2025-02-07,Laptop,Electronics,South,Chennai,2,65093.14,0.05,123676.97,94996.5,28680.47,UPI,Website
+861,2025-12-24,Coffee Maker,Home Appliances,West,Pune,3,11425.49,0.0,34276.47,23696.13,10580.34,Credit Card,Marketplace
+862,2025-07-02,Office Chair,Furniture,West,Ahmedabad,1,18194.23,0.0,18194.23,12244.69,5949.54,Cash on Delivery,Mobile App
+863,2025-09-16,T-Shirt,Fashion,South,Bengaluru,3,560.91,0.0,1682.73,1027.59,655.14,Net Banking,Website
+864,2025-01-07,Backpack,Accessories,East,Kolkata,2,2801.93,0.1,5043.47,3836.86,1206.61,Credit Card,Marketplace
+865,2025-05-05,Laptop,Electronics,East,Patna,2,86654.26,0.0,173308.52,124211.0,49097.52,Credit Card,Mobile App
+866,2025-09-29,Smart Watch,Electronics,North,Chandigarh,3,13064.97,0.0,39194.91,29336.76,9858.15,UPI,Marketplace
+867,2025-09-03,Desk,Furniture,Central,Indore,3,10134.06,0.15,25841.85,21872.31,3969.54,Net Banking,Website
+868,2025-11-01,Smartphone,Electronics,Central,Indore,2,39581.32,0.0,79162.64,47841.0,31321.64,Credit Card,Marketplace
+869,2025-02-26,Laptop,Electronics,North,Chandigarh,4,66829.52,0.05,253952.18,174805.19,79146.99,Net Banking,Marketplace
+870,2025-04-27,Desk,Furniture,South,Bengaluru,1,11384.78,0.05,10815.54,6925.71,3889.83,UPI,Website
+871,2025-06-30,Smartphone,Electronics,East,Bhubaneswar,4,44360.49,0.0,177441.96,110483.33,66958.63,Net Banking,Mobile App
+872,2025-12-08,Smartphone,Electronics,Central,Nagpur,2,18209.1,0.0,36418.2,23740.89,12677.31,UPI,Marketplace
+873,2025-03-16,Desk,Furniture,West,Mumbai,4,10860.32,0.1,39097.15,32056.31,7040.84,Credit Card,Website
+874,2025-09-15,Desk,Furniture,North,Delhi,2,12777.94,0.0,25555.88,16982.4,8573.48,Cash on Delivery,Website
+875,2025-12-27,Desk,Furniture,East,Kolkata,1,13836.76,0.1,12453.08,8915.31,3537.77,Net Banking,Marketplace
+876,2025-02-03,Desk,Furniture,East,Patna,2,6745.67,0.05,12816.77,10481.25,2335.52,Debit Card,Marketplace
+877,2025-12-30,Smart Watch,Electronics,Central,Bhopal,4,9055.04,0.05,34409.15,23277.97,11131.18,Credit Card,Mobile App
+878,2025-05-27,Smartphone,Electronics,West,Mumbai,4,59626.16,0.05,226579.41,145712.63,80866.78,Cash on Delivery,Marketplace
+879,2025-02-16,Coffee Maker,Home Appliances,East,Patna,2,7158.78,0.15,12169.93,11347.43,822.5,Cash on Delivery,Marketplace
+880,2025-05-31,Office Chair,Furniture,West,Mumbai,4,18347.03,0.1,66049.31,55652.45,10396.86,Debit Card,Marketplace
+881,2025-10-05,Coffee Maker,Home Appliances,Central,Indore,4,5375.3,0.15,18276.02,14690.54,3585.48,Net Banking,Website
+882,2025-03-07,Shoes,Fashion,West,Mumbai,4,5794.74,0.05,22020.01,17010.09,5009.92,Net Banking,Mobile App
+883,2025-07-17,T-Shirt,Fashion,South,Hyderabad,4,1368.62,0.15,4653.31,3987.44,665.87,Net Banking,Website
+884,2025-04-26,Headphones,Electronics,West,Ahmedabad,3,1921.96,0.1,5189.29,4237.57,951.72,Debit Card,Mobile App
+885,2025-03-01,Laptop,Electronics,Central,Indore,1,80805.74,0.15,68684.88,53719.73,14965.15,Cash on Delivery,Website
+886,2025-05-19,Desk,Furniture,West,Pune,4,9010.96,0.05,34241.65,26687.06,7554.59,UPI,Mobile App
+887,2025-07-17,Laptop,Electronics,East,Kolkata,1,87948.56,0.05,83551.13,59118.28,24432.85,Net Banking,Mobile App
+888,2025-11-07,T-Shirt,Fashion,Central,Bhopal,2,553.5,0.0,1107.0,699.85,407.15,Credit Card,Marketplace
+889,2025-10-08,Desk,Furniture,South,Bengaluru,3,10125.68,0.15,25820.48,23188.78,2631.7,Debit Card,Website
+890,2025-05-28,Office Chair,Furniture,South,Hyderabad,2,18634.05,0.1,33541.29,27820.18,5721.11,Credit Card,Website
+891,2025-11-16,Office Chair,Furniture,Central,Indore,3,7635.09,0.15,19469.48,16678.12,2791.36,Credit Card,Website
+892,2025-09-12,Shoes,Fashion,East,Patna,1,7190.91,0.1,6471.82,4636.93,1834.89,Debit Card,Marketplace
+893,2025-07-13,Smart Watch,Electronics,West,Pune,4,12589.63,0.15,42804.74,40499.71,2305.03,Credit Card,Mobile App
+894,2025-08-26,Office Chair,Furniture,Central,Indore,2,19286.18,0.1,34715.12,23799.09,10916.03,Net Banking,Marketplace
+895,2025-06-25,T-Shirt,Fashion,North,Chandigarh,1,1737.38,0.05,1650.51,1342.11,308.4,UPI,Website
+896,2025-08-06,Smartphone,Electronics,North,Jaipur,4,64860.24,0.0,259440.96,189758.72,69682.24,Debit Card,Marketplace
+897,2025-04-19,Headphones,Electronics,South,Bengaluru,1,6828.32,0.0,6828.32,5342.4,1485.92,Cash on Delivery,Marketplace
+898,2025-11-26,Shoes,Fashion,West,Mumbai,2,3160.41,0.0,6320.82,4875.9,1444.92,UPI,Website
+899,2025-05-28,Desk,Furniture,Central,Nagpur,1,17162.18,0.1,15445.96,11761.06,3684.9,UPI,Mobile App
+900,2025-02-13,Desk,Furniture,South,Hyderabad,2,10939.73,0.05,20785.49,14695.4,6090.09,UPI,Website
+901,2025-07-08,Smart Watch,Electronics,North,Jaipur,3,5618.67,0.05,16013.21,10657.02,5356.19,Credit Card,Marketplace
+902,2025-07-04,Office Chair,Furniture,Central,Indore,4,9451.25,0.0,37805.0,29487.33,8317.67,UPI,Marketplace
+903,2025-09-08,Office Chair,Furniture,South,Bengaluru,3,9830.99,0.1,26543.67,20735.91,5807.76,UPI,Marketplace
+904,2025-06-16,Smartphone,Electronics,West,Ahmedabad,4,34610.13,0.05,131518.49,97970.84,33547.65,UPI,Website
+905,2025-12-03,Coffee Maker,Home Appliances,West,Ahmedabad,4,8636.9,0.15,29365.46,26941.11,2424.35,UPI,Mobile App
+906,2025-01-09,Office Chair,Furniture,South,Hyderabad,4,13643.71,0.1,49117.36,37870.85,11246.51,Credit Card,Website
+907,2025-07-04,T-Shirt,Fashion,North,Delhi,1,765.45,0.15,650.63,485.46,165.17,Credit Card,Marketplace
+908,2025-02-28,T-Shirt,Fashion,South,Hyderabad,2,1460.39,0.15,2482.66,1926.31,556.35,Debit Card,Mobile App
+909,2025-09-26,Backpack,Accessories,East,Patna,1,2504.16,0.0,2504.16,1818.98,685.18,Cash on Delivery,Website
+910,2025-12-16,Coffee Maker,Home Appliances,East,Kolkata,1,7538.8,0.0,7538.8,5594.61,1944.19,UPI,Website
+911,2025-08-22,Smart Watch,Electronics,South,Bengaluru,1,4215.77,0.0,4215.77,3215.74,1000.03,Credit Card,Marketplace
+912,2025-02-22,Shoes,Fashion,South,Chennai,4,2818.03,0.1,10144.91,7002.89,3142.02,Net Banking,Website
+913,2025-08-09,Coffee Maker,Home Appliances,Central,Indore,4,4473.44,0.1,16104.38,11241.29,4863.09,UPI,Mobile App
+914,2025-07-11,Backpack,Accessories,South,Chennai,4,4495.91,0.0,17983.64,10791.43,7192.21,Cash on Delivery,Mobile App
+915,2025-01-12,T-Shirt,Fashion,West,Pune,4,1686.36,0.15,5733.62,4259.74,1473.88,Net Banking,Marketplace
+916,2025-07-02,Office Chair,Furniture,East,Patna,4,16948.57,0.0,67794.28,45500.28,22294.0,Credit Card,Website
+917,2025-12-01,Coffee Maker,Home Appliances,Central,Indore,1,5409.47,0.0,5409.47,3549.04,1860.43,Net Banking,Mobile App
+918,2025-08-12,Smartphone,Electronics,North,Delhi,2,47424.3,0.15,80621.31,64473.73,16147.58,Debit Card,Mobile App
+919,2025-11-15,Shoes,Fashion,North,Jaipur,2,6058.71,0.0,12117.42,8702.5,3414.92,Net Banking,Website
+920,2025-05-11,Smartphone,Electronics,East,Kolkata,3,64112.26,0.0,192336.78,123557.81,68778.97,Net Banking,Mobile App
+921,2025-08-20,Desk,Furniture,North,Delhi,1,8994.69,0.05,8544.96,6729.6,1815.36,Cash on Delivery,Marketplace
+922,2025-12-06,Office Chair,Furniture,West,Pune,1,9972.69,0.15,8476.79,7761.98,714.81,Debit Card,Marketplace
+923,2025-10-25,Backpack,Accessories,East,Kolkata,2,2148.31,0.15,3652.13,3288.96,363.17,Credit Card,Mobile App
+924,2025-06-25,Office Chair,Furniture,North,Jaipur,1,7015.78,0.15,5963.41,5057.8,905.61,Debit Card,Mobile App
+925,2025-01-15,Backpack,Accessories,West,Ahmedabad,1,1944.17,0.15,1652.54,1432.4,220.14,UPI,Mobile App
+926,2025-11-21,Headphones,Electronics,South,Chennai,2,1701.92,0.05,3233.65,2174.17,1059.48,Credit Card,Marketplace
+927,2025-11-14,Office Chair,Furniture,South,Hyderabad,2,11993.24,0.1,21587.83,15179.6,6408.23,Credit Card,Mobile App
+928,2025-08-18,Smartphone,Electronics,West,Pune,4,26210.15,0.15,89114.51,68604.15,20510.36,Cash on Delivery,Website
+929,2025-09-26,Smartphone,Electronics,West,Pune,1,59324.2,0.0,59324.2,35839.24,23484.96,Credit Card,Marketplace
+930,2025-11-06,Office Chair,Furniture,South,Hyderabad,1,8922.43,0.15,7584.07,6681.85,902.22,Net Banking,Marketplace
+931,2025-06-20,Smart Watch,Electronics,West,Ahmedabad,3,8460.74,0.05,24113.11,19232.89,4880.22,Debit Card,Marketplace
+932,2025-03-17,Backpack,Accessories,East,Bhubaneswar,3,1960.64,0.05,5587.82,4323.31,1264.51,Net Banking,Marketplace
+933,2025-04-11,Backpack,Accessories,West,Ahmedabad,4,933.97,0.1,3362.29,2762.28,600.01,UPI,Mobile App
+934,2025-03-07,Backpack,Accessories,South,Hyderabad,4,2609.99,0.1,9395.96,6418.56,2977.4,Debit Card,Marketplace
+935,2025-07-14,Backpack,Accessories,East,Bhubaneswar,1,2903.6,0.0,2903.6,2124.13,779.47,Credit Card,Marketplace
+936,2025-08-09,Laptop,Electronics,East,Bhubaneswar,4,82772.19,0.05,314534.32,246123.16,68411.16,Cash on Delivery,Website
+937,2025-02-24,Desk,Furniture,West,Pune,4,16027.6,0.1,57699.36,39435.74,18263.62,Credit Card,Website
+938,2025-07-18,Smart Watch,Electronics,South,Hyderabad,4,12025.74,0.0,48102.96,35292.81,12810.15,Net Banking,Marketplace
+939,2025-01-30,Laptop,Electronics,Central,Bhopal,1,72591.46,0.05,68961.89,46425.85,22536.04,UPI,Website
+940,2025-11-09,Smartphone,Electronics,East,Kolkata,3,49428.65,0.05,140871.65,112179.7,28691.95,UPI,Mobile App
+941,2025-03-03,Office Chair,Furniture,South,Chennai,3,18954.57,0.15,48334.15,38816.48,9517.67,Cash on Delivery,Website
+942,2025-10-08,Backpack,Accessories,Central,Nagpur,4,1192.55,0.05,4531.69,3053.88,1477.81,UPI,Mobile App
+943,2025-09-25,Backpack,Accessories,West,Ahmedabad,2,2197.37,0.05,4175.0,2833.04,1341.96,Net Banking,Marketplace
+944,2025-02-27,Smartphone,Electronics,South,Chennai,3,53096.07,0.05,151323.8,96112.48,55211.32,UPI,Website
+945,2025-01-17,Headphones,Electronics,South,Chennai,4,6629.12,0.05,25190.66,21112.83,4077.83,Net Banking,Marketplace
+946,2025-12-20,Smart Watch,Electronics,South,Chennai,3,15967.17,0.05,45506.43,34527.93,10978.5,Net Banking,Marketplace
+947,2025-07-31,Smartphone,Electronics,Central,Nagpur,2,45168.86,0.15,76787.06,61557.11,15229.95,Debit Card,Mobile App
+948,2025-11-12,Smartphone,Electronics,West,Mumbai,4,45450.27,0.05,172711.03,109688.2,63022.83,Net Banking,Website
+949,2025-12-18,Shoes,Fashion,South,Chennai,2,8222.68,0.1,14800.82,10249.15,4551.67,Debit Card,Marketplace
+950,2025-03-02,Shoes,Fashion,West,Ahmedabad,1,3895.91,0.0,3895.91,3109.52,786.39,Debit Card,Website
+951,2025-05-07,T-Shirt,Fashion,West,Pune,4,626.38,0.0,2505.52,1921.46,584.06,UPI,Mobile App
+952,2025-10-22,Coffee Maker,Home Appliances,East,Patna,4,10473.38,0.0,41893.52,30814.33,11079.19,Cash on Delivery,Mobile App
+953,2025-04-27,Coffee Maker,Home Appliances,East,Patna,3,9017.45,0.0,27052.35,17411.58,9640.77,Credit Card,Marketplace
+954,2025-02-17,Laptop,Electronics,South,Bengaluru,3,67508.23,0.15,172145.99,124382.15,47763.84,Net Banking,Marketplace
+955,2025-12-30,T-Shirt,Fashion,East,Patna,4,1646.03,0.1,5925.71,4417.67,1508.04,Credit Card,Website
+956,2025-02-25,Headphones,Electronics,West,Mumbai,1,8113.92,0.1,7302.53,6467.18,835.35,Debit Card,Marketplace
+957,2025-11-28,Smart Watch,Electronics,South,Hyderabad,1,12854.54,0.15,10926.36,8789.49,2136.87,UPI,Mobile App
+958,2025-11-12,Shoes,Fashion,North,Delhi,2,8257.99,0.1,14864.38,10155.36,4709.02,Cash on Delivery,Marketplace
+959,2025-05-30,Coffee Maker,Home Appliances,South,Hyderabad,1,11690.43,0.0,11690.43,7997.87,3692.56,Credit Card,Marketplace
+960,2025-03-13,Laptop,Electronics,East,Kolkata,1,80237.22,0.0,80237.22,56848.56,23388.66,UPI,Website
+961,2025-09-06,Laptop,Electronics,Central,Bhopal,2,87772.32,0.1,157990.18,141313.66,16676.52,Net Banking,Mobile App
+962,2025-12-11,Office Chair,Furniture,Central,Nagpur,3,16244.61,0.05,46297.14,37241.42,9055.72,UPI,Marketplace
+963,2025-11-04,Headphones,Electronics,West,Ahmedabad,2,5310.77,0.0,10621.54,6460.68,4160.86,Net Banking,Mobile App
+964,2025-05-13,Shoes,Fashion,North,Jaipur,2,2430.88,0.15,4132.5,3980.6,151.9,UPI,Marketplace
+965,2025-07-09,Headphones,Electronics,West,Ahmedabad,4,6953.02,0.15,23640.27,21671.91,1968.36,Cash on Delivery,Mobile App
+966,2025-10-04,T-Shirt,Fashion,Central,Nagpur,2,1397.92,0.0,2795.84,1747.74,1048.1,UPI,Mobile App
+967,2025-08-30,Backpack,Accessories,Central,Bhopal,3,4166.14,0.1,11248.58,8588.32,2660.26,Net Banking,Mobile App
+968,2025-09-08,Shoes,Fashion,Central,Nagpur,3,5863.34,0.1,15831.02,13366.98,2464.04,Net Banking,Marketplace
+969,2025-05-15,Laptop,Electronics,West,Ahmedabad,4,83873.8,0.1,301945.68,206810.14,95135.54,Debit Card,Marketplace
+970,2025-06-29,Backpack,Accessories,South,Chennai,1,3757.68,0.05,3569.8,2421.52,1148.28,Credit Card,Mobile App
+971,2025-07-04,Smart Watch,Electronics,East,Bhubaneswar,2,15605.56,0.1,28090.01,19921.35,8168.66,Debit Card,Website
+972,2025-06-22,Smart Watch,Electronics,South,Hyderabad,2,6346.66,0.1,11423.99,9827.2,1596.79,Cash on Delivery,Website
+973,2025-10-28,Office Chair,Furniture,Central,Nagpur,3,16800.46,0.1,45361.24,31309.67,14051.57,Cash on Delivery,Mobile App
+974,2025-11-19,Desk,Furniture,West,Mumbai,2,8381.27,0.05,15924.41,11284.9,4639.51,Net Banking,Mobile App
+975,2025-02-24,Desk,Furniture,West,Mumbai,3,16670.37,0.15,42509.44,32421.41,10088.03,Cash on Delivery,Marketplace
+976,2025-09-06,Coffee Maker,Home Appliances,East,Kolkata,1,10704.2,0.0,10704.2,7014.23,3689.97,Net Banking,Marketplace
+977,2025-11-04,Backpack,Accessories,East,Bhubaneswar,2,2749.39,0.1,4948.9,3604.67,1344.23,Debit Card,Website
+978,2025-04-15,Smart Watch,Electronics,South,Hyderabad,4,13883.72,0.1,49981.39,37378.63,12602.76,Debit Card,Marketplace
+979,2025-02-15,Smartphone,Electronics,East,Kolkata,3,27171.78,0.1,73363.81,54099.41,19264.4,Debit Card,Website
+980,2025-01-29,Smartphone,Electronics,North,Chandigarh,3,40456.17,0.1,109231.66,77531.24,31700.42,Cash on Delivery,Website
+981,2025-03-16,Office Chair,Furniture,South,Chennai,2,10352.48,0.15,17599.22,16795.02,804.2,Credit Card,Website
+982,2025-05-22,Headphones,Electronics,North,Chandigarh,3,2432.79,0.15,6203.61,4515.27,1688.34,Cash on Delivery,Mobile App
+983,2025-04-28,Backpack,Accessories,South,Bengaluru,3,3950.46,0.0,11851.38,9137.1,2714.28,UPI,Marketplace
+984,2025-06-13,Backpack,Accessories,West,Mumbai,1,1120.07,0.15,952.06,678.77,273.29,Net Banking,Marketplace
+985,2025-10-28,Desk,Furniture,East,Kolkata,3,16576.66,0.1,44756.98,36659.76,8097.22,Net Banking,Website
+986,2025-09-20,Coffee Maker,Home Appliances,West,Mumbai,3,3495.58,0.1,9438.07,6920.88,2517.19,Debit Card,Mobile App
+987,2025-08-24,Shoes,Fashion,East,Bhubaneswar,4,7395.69,0.15,25145.35,19655.93,5489.42,Net Banking,Website
+988,2025-02-20,Shoes,Fashion,East,Patna,2,3976.87,0.1,7158.37,5068.49,2089.88,Net Banking,Marketplace
+989,2025-08-23,T-Shirt,Fashion,Central,Indore,1,559.72,0.15,475.76,366.34,109.42,Debit Card,Website
+990,2025-02-04,Headphones,Electronics,West,Pune,1,5510.76,0.0,5510.76,3783.85,1726.91,Cash on Delivery,Marketplace
+991,2025-03-25,Smart Watch,Electronics,Central,Indore,4,11712.0,0.0,46848.0,36520.14,10327.86,Debit Card,Website
+992,2025-03-03,Laptop,Electronics,Central,Bhopal,3,81685.72,0.05,232804.3,182187.91,50616.39,Credit Card,Mobile App
+993,2025-07-05,Desk,Furniture,Central,Bhopal,3,6546.97,0.05,18658.86,14554.59,4104.27,UPI,Website
+994,2025-06-03,Smart Watch,Electronics,Central,Bhopal,4,7287.37,0.0,29149.48,18487.5,10661.98,UPI,Website
+995,2025-12-20,Smart Watch,Electronics,South,Chennai,1,6230.13,0.15,5295.61,4130.73,1164.88,Net Banking,Marketplace
+996,2025-04-19,Office Chair,Furniture,North,Chandigarh,3,7702.07,0.1,20795.59,18923.75,1871.84,Net Banking,Website
+997,2025-09-05,Shoes,Fashion,Central,Bhopal,4,4283.65,0.0,17134.6,12791.0,4343.6,UPI,Mobile App
+998,2025-04-02,T-Shirt,Fashion,East,Kolkata,3,937.51,0.1,2531.28,1914.1,617.18,Debit Card,Mobile App
+999,2025-07-15,Coffee Maker,Home Appliances,West,Ahmedabad,3,7090.99,0.0,21272.97,15982.85,5290.12,Debit Card,Marketplace
+1000,2025-12-24,Backpack,Accessories,North,Chandigarh,4,2254.61,0.1,8116.6,7029.92,1086.68,Credit Card,Marketplace
